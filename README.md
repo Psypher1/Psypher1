@@ -71,7 +71,11 @@ npx create-next-app my-site
 ### [Dante Decodes](https://dantedecodes.hashnode.dev/)
 
 <!-- BLOG-POST-LIST:START -->
-
+- [T3MP Session Five: Extensions](https://dantedecodes.hashnode.dev/t3mp-session-five-extensions)
+- [Nextjs, What Have You Done With UseEffect?](https://dantedecodes.hashnode.dev/nextjs-what-have-you-done-with-useeffect)
+- [T3MP Session Four: Contact Forms](https://dantedecodes.hashnode.dev/t3mp-session-four-contact-forms)
+- [Notifications: The Enemy In Your Pocket](https://dantedecodes.hashnode.dev/notifications-the-enemy-in-your-pocket)
+- [T3MP Session Three: TypoScript](https://dantedecodes.hashnode.dev/t3mp-session-three-typoscript)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
