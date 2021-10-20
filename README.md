@@ -20,7 +20,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <br/>
 
-### What I enjoy doing:
+### What I Enjoy Doing:
 
 **Taming snakes**
 
@@ -65,6 +65,8 @@ npx create-next-app my-site
 ---
 
 ### 📖 My Latest Articles
+
+[Dante Decodes](https://dantedecodes.hashnode.dev/)
 
 <!-- BLOG-POST-LIST:START -->
 
