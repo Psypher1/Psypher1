@@ -5,9 +5,12 @@ I love languages. Put simply; J'aime les langues; Я люблю языки.
 For me, each day is an opportunity to learn and try to be better than I was yesterday.
 I believe knowledge is meant to be shared - I aim to do that wherever I can.
 
-## I develop, I write, I tutor
+## I develop, I write, I tutor...
 
--
+- I am currently a member of the [TYPO3](https://typo3.org/) Mentorship program
+- I am workig towards inner peace 🐼
+
+---
 
 Collaboration is key - if you have anything you may want help with or anything you think I might find interesting, please feel free to hit me up: [Email me](jamesmidzi@gmail.com)
 
@@ -16,7 +19,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 [Twitter](https://twitter.com/Psypher1) | [LinkedIn](https://www.linkedin.com/in/jamesmidzi/) | [Email](jamesmidzi@gmail.com)
 
 <br/>
-
 ### What I enjoy doing:
 
 **Taming snakes**
@@ -61,7 +63,7 @@ npx create-next-app my-site
 
 ---
 
-##📖 My Latest Articles
+### 📖 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
 
