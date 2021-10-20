@@ -19,6 +19,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 [Twitter](https://twitter.com/Psypher1) | [LinkedIn](https://www.linkedin.com/in/jamesmidzi/) | [Email](jamesmidzi@gmail.com)
 
 <br/>
+
 ### What I enjoy doing:
 
 **Taming snakes**
