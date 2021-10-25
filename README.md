@@ -68,7 +68,11 @@ npx create-next-app my-site
 
 ### 📖 My Latest Articles
 <!-- BLOG-POST-LIST:START -->
-
+- [T3MP Session Six: User Access](https://dantedecodes.hashnode.dev/t3mp-session-six-user-access)
+- [You Need A Break](https://dantedecodes.hashnode.dev/you-need-a-break)
+- [T3MP Session Five: Extensions](https://dantedecodes.hashnode.dev/t3mp-session-five-extensions)
+- [Nextjs, What Have You Done With UseEffect?](https://dantedecodes.hashnode.dev/nextjs-what-have-you-done-with-useeffect)
+- [T3MP Session Four: Contact Forms](https://dantedecodes.hashnode.dev/t3mp-session-four-contact-forms)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
