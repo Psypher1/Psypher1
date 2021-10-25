@@ -67,9 +67,6 @@ npx create-next-app my-site
 ---
 
 ### 📖 My Latest Articles
-
-### [Dante Decodes](https://dantedecodes.hashnode.dev/)
-
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
