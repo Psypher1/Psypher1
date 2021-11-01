@@ -80,15 +80,13 @@ npx create-next-app my-site
 ### 📖 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-<<<<<<< HEAD
 
-=======
 - [T3MP Session Seven: Multilanguage Features](https://dantedecodes.hashnode.dev/t3mp-session-seven-multilanguage-features)
 - [Finding A CMS](https://dantedecodes.hashnode.dev/finding-a-cms)
 - [T3MP Session Six: User Access](https://dantedecodes.hashnode.dev/t3mp-session-six-user-access)
 - [You Need A Break](https://dantedecodes.hashnode.dev/you-need-a-break)
 - [T3MP Session Five: Extensions](https://dantedecodes.hashnode.dev/t3mp-session-five-extensions)
->>>>>>> 1b39a3ab48d587cf7701ab52a400eb2a22c591c5
+
 <!-- BLOG-POST-LIST:END -->
 
 <!--
