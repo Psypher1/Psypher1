@@ -1,8 +1,11 @@
 <h1 align="center"> Hi, I'm James</h1>
 <p align="center">
+<a href="https://jamesmidzi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4605AD?style=for-the-badge&logo=nextj&logoColor=white alt="Linkedin" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jamesmidzi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" /></a>&nbsp;
 <a href="https://twitter.com/Psypher1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://hashnode.com/@Psypher1"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/jamesmidzi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" /></a>&nbsp;
+<a href="https://mydialectics.wordpress.com"><img src="https://img.shields.io/badge/WordPress-1F6F93?style=for-the-badge&logo=wordpress&logoColor=white alt="WordPress" /></a>&nbsp;
+
 </p>
 
 ---
@@ -13,11 +16,12 @@
 For me, each day is an opportunity to learn and try to be better than I was yesterday.
 I believe knowledge is meant to be shared - I aim to do that wherever I can.
 <br/>
-<h3 align='center'> I develop, I write, I tutor...</h3>
+<h3 align='center'> I learn, I develop, I write, I tutor...</h3>
 
 - I am currently a member of the [TYPO3](https://typo3.org/) Mentorship program
 - I am deciding which Headless CMS to use for my next projects.
-- I am workig towards inner peace 🐼
+- I am working towards inner peace 🐼
+- **Fun Fact**: I adore penguins 🐧
 
 <br/>
 
@@ -71,32 +75,35 @@ npx create-next-app my-site
 <h3 align="center">Tools & Stacks</h3>
 
 <p align="center">
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="Python" width="26px" src="./images/python.png" />
+
+<img alt="Django" width="19px" src="./images/django.png"/>
+
+<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img  alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
-
 <img  alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img  alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img  alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img  alt="React" width="26px" src="./images/next.png" />
 
-<img a alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+</p>
 
-<img alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<p align="center">
 
-<img  alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="Firebase" width="26px" src="./images/firebase.png" />
+<img alt="MongoDB" width="26px" src="./images/mongodb.png" />
+<img a alt="GraphQL" width="26px" src="./images/graphql.png" />
 
-<img  alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+</p>
 
+<p align="center">
 <img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
 <img  alt="GitHub" width="26px" src="./images/github.png" />
+<img alt="Git" width="26px" src="./images/git.png" />
 
 </p>
 
@@ -111,6 +118,7 @@ npx create-next-app my-site
 ### 📖 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [T3MP Session Seven: Multilanguage Features](https://dantedecodes.hashnode.dev/t3mp-session-seven-multilanguage-features)
 - [Finding A CMS](https://dantedecodes.hashnode.dev/finding-a-cms)
 - [T3MP Session Six: User Access](https://dantedecodes.hashnode.dev/t3mp-session-six-user-access)
