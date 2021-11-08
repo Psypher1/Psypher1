@@ -111,11 +111,11 @@ npx create-next-app my-site
 ### 📖 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [T3MP Session Eight: Site Package Customisation](https://dantedecodes.hashnode.dev/t3mp-session-eight-site-package-customisation)
 - [You Don&#39;t Have To Learn Everything](https://dantedecodes.hashnode.dev/you-dont-have-to-learn-everything)
 - [T3MP Session Seven: Multilanguage Features](https://dantedecodes.hashnode.dev/t3mp-session-seven-multilanguage-features)
 - [Finding A CMS](https://dantedecodes.hashnode.dev/finding-a-cms)
 - [T3MP Session Six: User Access](https://dantedecodes.hashnode.dev/t3mp-session-six-user-access)
-- [You Need A Break](https://dantedecodes.hashnode.dev/you-need-a-break)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
