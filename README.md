@@ -1,13 +1,9 @@
 <h1 align="center"> Hi, I'm James</h1>
 <p align="center">
-<a href="https://jamesmidzi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4605AD?style=for-the-badge&logo=nextj&logoColor=white alt="Portfolio" target="_blank"/></a>&nbsp;
-
+<a href="https://jamesmidzi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4605AD?style=for-the-badge&logo=nextj&logoColor=white alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/jamesmidzi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin" target="\_blank" /></a>&nbsp;
-
 <a href="https://twitter.com/Psypher1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" target="_blank" /></a>&nbsp;
-
 <a href="https://hashnode.com/@Psypher1"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" target="\_blank" /></a>&nbsp;
-
 <a href="https://mydialectics.wordpress.com"><img src="https://img.shields.io/badge/WordPress-1F6F93?style=for-the-badge&logo=wordpress&logoColor=white alt="WordPress" target="\_blank"/></a>&nbsp;
 
 </p>
