@@ -118,11 +118,11 @@ npx create-next-app my-site
 ### 📖 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Contentful and NextJS: Finding A CMS Part 2](https://dantedecodes.hashnode.dev/contentful-and-nextjs-finding-a-cms-part-2)
 - [Finding A CMS: Update](https://dantedecodes.hashnode.dev/finding-a-cms-update)
 - [T3MP Session Nine: Fluid Template Engine](https://dantedecodes.hashnode.dev/t3mp-session-nine-fluid-template-engine)
 - [Sanity and NextJs: Finding A CMS Part 1](https://dantedecodes.hashnode.dev/sanity-and-nextjs-finding-a-cms-part-1)
 - [T3MP Session Eight: Site Package Customisation](https://dantedecodes.hashnode.dev/t3mp-session-eight-site-package-customisation)
-- [You Don&#39;t Have To Learn Everything](https://dantedecodes.hashnode.dev/you-dont-have-to-learn-everything)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
