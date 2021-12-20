@@ -118,11 +118,11 @@ npx create-next-app my-site
 ### 📖 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [T3MP Session Twelve: Evaluation &amp; Summary](https://dantedecodes.hashnode.dev/t3mp-session-twelve-evaluation-and-summary)
 - [Error: EACCES: permission denied](https://dantedecodes.hashnode.dev/error-eacces-permission-denied)
 - [T3MP Session Eleven: DevOps and Maintenance](https://dantedecodes.hashnode.dev/t3mp-session-eleven-devops-and-maintenance)
 - [Building My French Website](https://dantedecodes.hashnode.dev/building-my-french-website)
 - [T3MP Session Ten: Approaching Web Projects](https://dantedecodes.hashnode.dev/t3mp-session-ten-approaching-web-projects)
-- [Data Fetching - Explained Practically with NextJS](https://dantedecodes.hashnode.dev/data-fetching-explained-practically-with-nextjs)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
