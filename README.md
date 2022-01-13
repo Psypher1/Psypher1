@@ -47,8 +47,7 @@ greet()
 **Talking to APIs**
 
 ```js
-export 
-async function getServerSideProps(){
+export async function getServerSideProps(){
     const res = await fetch(process.env.API_URL);
     const data = await res.json();
 
