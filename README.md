@@ -29,7 +29,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Hello There, Once More 👋🏽](https://dantedecodes.hashnode.dev/hello-there-once-more)
 - [T3MP Session Thirteen: Interview Your Mentor](https://dantedecodes.hashnode.dev/t3mp-session-thirteen-interview-your-mentor)
 - [T3MP Session Twelve: Evaluation &amp; Summary](https://dantedecodes.hashnode.dev/t3mp-session-twelve-evaluation-and-summary)
