@@ -88,7 +88,12 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### My Mantra
 
-> #### _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
+> ## _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
+
+---
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DarrylBrooks97)
 
 <!-- <h2 align="center">I LIKE TO HAVE FUN!!!😄</h2> -->
 
