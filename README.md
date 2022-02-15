@@ -29,12 +29,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [A Hackathon Noob&#39;s Thoughts: Netlify x Hashnode Hackathon](https://dantedecodes.hashnode.dev/a-hackathon-noobs-thoughts-netlify-x-hashnode-hackathon)
+- [Why Does Dante Decode?](https://dantedecodes.hashnode.dev/why-does-dante-decode)
 - [Hello There, Once More 👋🏽](https://dantedecodes.hashnode.dev/hello-there-once-more)
 - [T3MP Session Thirteen: Interview Your Mentor](https://dantedecodes.hashnode.dev/t3mp-session-thirteen-interview-your-mentor)
 - [T3MP Session Twelve: Evaluation &amp; Summary](https://dantedecodes.hashnode.dev/t3mp-session-twelve-evaluation-and-summary)
-- [Error: EACCES: permission denied](https://dantedecodes.hashnode.dev/error-eacces-permission-denied)
-- [T3MP Session Eleven: DevOps and Maintenance](https://dantedecodes.hashnode.dev/t3mp-session-eleven-devops-and-maintenance)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -89,7 +88,12 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### My Mantra
 
-> #### _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
+> ## _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
+
+---
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DarrylBrooks97)
 
 <!-- <h2 align="center">I LIKE TO HAVE FUN!!!😄</h2> -->
 
