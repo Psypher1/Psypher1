@@ -29,19 +29,17 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [TYPO3 Mentorship Program: Sessions Compiled](https://dantedecodes.hashnode.dev/typo3-mentorship-program-sessions-compiled)
 - [The Language Hub - Netlify x Hashnode Hackathon Submission](https://dantedecodes.hashnode.dev/the-language-hub-netlify-x-hashnode-hackathon-submission)
 - [Next.js Releases On-demand Incremental Static Regeneration](https://dantedecodes.hashnode.dev/nextjs-releases-on-demand-incremental-static-regeneration)
 - [A Hackathon Noob&#39;s Thoughts: Netlify x Hashnode Hackathon](https://dantedecodes.hashnode.dev/a-hackathon-noobs-thoughts-netlify-x-hashnode-hackathon)
 - [Why Does Dante Decode?](https://dantedecodes.hashnode.dev/why-does-dante-decode)
-<<<<<<< HEAD
+  <<<<<<< HEAD
 - [Hello There, Once More 👋🏽](https://dantedecodes.hashnode.dev/hello-there-once-more)
 - [T3MP Session Thirteen: Interview Your Mentor](https://dantedecodes.hashnode.dev/t3mp-session-thirteen-interview-your-mentor)
 - [T3MP Session Twelve: Evaluation &amp; Summary](https://dantedecodes.hashnode.dev/t3mp-session-twelve-evaluation-and-summary)
   <!-- BLOG-POST-LIST:END -->
-=======
-<!-- BLOG-POST-LIST:END -->
->>>>>>> 1f549a3e666b7a6cba6ee5a0bc44e8fad730c62e
 
 ---
 
