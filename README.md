@@ -11,7 +11,7 @@ I believe knowledge is meant to be shared - I aim to do that wherever I can.
 <br/>
 
 - I am currently a member of the [TYPO3](https://typo3.org/) Mentorship program
-- I am deciding which Headless CMS to use for my next projects.
+- I have found the CMSes I will use for my projects.
 - I am working towards inner peace 🐼
 - **Fun Fact**: I adore penguins 🐧
 
@@ -35,17 +35,21 @@ Collaboration is key - if you have anything you may want help with or anything y
 - [Hello There, Once More 👋🏽](https://dantedecodes.hashnode.dev/hello-there-once-more)
 - [T3MP Session Thirteen: Interview Your Mentor](https://dantedecodes.hashnode.dev/t3mp-session-thirteen-interview-your-mentor)
 - [T3MP Session Twelve: Evaluation &amp; Summary](https://dantedecodes.hashnode.dev/t3mp-session-twelve-evaluation-and-summary)
-<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## ![Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true)
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&theme=github_dark&hide_border=true" alt="Jmaes's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight&hide_border=true" alt="james's github streak" width="48%" >
 
 ---
 
 ### 💻 Languages
 
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://jamesmidzi.netlify.app)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://jamesmidzi.netlify.app)
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://jamesmidzi.netlify.app)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://jamesmidzi.netlify.app)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://jamesmidzi.netlify.app)
@@ -76,7 +80,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://jamesmidzi.netlify.app)
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jamesmidzi.netlify.app)
 [![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jamesmidzi.netlify.app)
-[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://jamesmidzi.netlify.app)
 [![insomnia](https://img.shields.io/badge/Insomnia-6256B6?style=for-the-badge&logo=Insomnia&logoColor=white)](https://jamesmidzi.netlify.app)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://jamesmidzi.netlify.app)
 [![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://jamesmidzi.netlify.app)
@@ -93,7 +96,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### My Mantra:
 
-> ### _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
+> ## _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
 
 <!-- <h2 align="center">I LIKE TO HAVE FUN!!!😄</h2> -->
 
