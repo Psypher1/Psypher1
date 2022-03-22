@@ -29,11 +29,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatically Sort Tailwind Classes with Prettier](https://dantedecodes.hashnode.dev/automatically-sort-tailwind-classes-with-prettier)
 - [TYPO3 Mentorship Program: Sessions Compiled](https://dantedecodes.hashnode.dev/typo3-mentorship-program-sessions-compiled)
 - [The Language Hub - Netlify x Hashnode Hackathon Submission](https://dantedecodes.hashnode.dev/the-language-hub-netlify-x-hashnode-hackathon-submission)
 - [Next.js Releases On-demand Incremental Static Regeneration](https://dantedecodes.hashnode.dev/nextjs-releases-on-demand-incremental-static-regeneration)
 - [A Hackathon Noob&#39;s Thoughts: Netlify x Hashnode Hackathon](https://dantedecodes.hashnode.dev/a-hackathon-noobs-thoughts-netlify-x-hashnode-hackathon)
-- [Why Does Dante Decode?](https://dantedecodes.hashnode.dev/why-does-dante-decode)
 <!-- BLOG-POST-LIST:END -->
 
 ---
