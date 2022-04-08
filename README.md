@@ -10,14 +10,14 @@ I believe knowledge is meant to be shared - I aim to do that wherever I can.
 
 <br/>
 
-- I am currently a member of the [TYPO3](https://typo3.org/) Mentorship program
+- I am exploring what [TYPO III](https://typo3.org/) can do.
 - I have found the CMSes I will use for my projects.
 - I am working towards inner peace 🐼
-- **Fun Fact**: I adore penguins 🐧
+- **Fun Fact**: I adore penguins 🐧🐧🐧🐧
 
 ### 🤝🏾 Connect With Me
 
-Collaboration is key - if you have anything you may want help with or anything you think I might find interesting, please feel free to hit me up: [Email](jamesmidzi@gmail.com)
+Collaboration is key - if you have anything you may want help with or anything you think I might find interesting, please feel free to @ me on Twitter: [James Dante](https://twitter.com/Psypher1)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://jamesmidzi.netlify.app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Psypher1)
@@ -29,19 +29,21 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [GraphCMS and NextJS: Finding A CMS Part 3](https://dantedecodes.hashnode.dev/graphcms-and-nextjs-finding-a-cms-part-3)
 - [Automatically Sort Tailwind Classes with Prettier](https://dantedecodes.hashnode.dev/automatically-sort-tailwind-classes-with-prettier)
 - [TYPO3 Mentorship Program: Sessions Compiled](https://dantedecodes.hashnode.dev/typo3-mentorship-program-sessions-compiled)
 - [The Language Hub - Netlify x Hashnode Hackathon Submission](https://dantedecodes.hashnode.dev/the-language-hub-netlify-x-hashnode-hackathon-submission)
 - [Next.js Releases On-demand Incremental Static Regeneration](https://dantedecodes.hashnode.dev/nextjs-releases-on-demand-incremental-static-regeneration)
-<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 📊 Stats
+### :bar_chart: Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&theme=github_dark&hide_border=true" alt="Jmaes's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight&hide_border=true" alt="james's github streak" width="48%" >
+[![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight)]()
+
+[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&theme=github_dark)]()
 
 ---
 
@@ -95,7 +97,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### My Mantra:
 
-> ## _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
+> # _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
 
 <!-- <h2 align="center">I LIKE TO HAVE FUN!!!😄</h2> -->
 
