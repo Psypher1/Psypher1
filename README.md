@@ -29,12 +29,13 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [GraphCMS and NextJS: Finding A CMS Part 3](https://dantedecodes.hashnode.dev/graphcms-and-nextjs-finding-a-cms-part-3)
 - [Automatically Sort Tailwind Classes with Prettier](https://dantedecodes.hashnode.dev/automatically-sort-tailwind-classes-with-prettier)
 - [TYPO3 Mentorship Program: Sessions Compiled](https://dantedecodes.hashnode.dev/typo3-mentorship-program-sessions-compiled)
 - [The Language Hub - Netlify x Hashnode Hackathon Submission](https://dantedecodes.hashnode.dev/the-language-hub-netlify-x-hashnode-hackathon-submission)
 - [Next.js Releases On-demand Incremental Static Regeneration](https://dantedecodes.hashnode.dev/nextjs-releases-on-demand-incremental-static-regeneration)
-<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -90,9 +91,13 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-464646.svg?&style=for-the-badge&logo=Sublimetext&logoColor=F28F02)](https://jamesmidzi.netlify.app)
 [![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://jamesmidzi.netlify.app)
 [![codepen](https://img.shields.io/badge/Codepen-000000.svg?&style=for-the-badge&logo=Codepen&logoColor=white)](https://jamesmidzi.netlify.app)
-[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://jamesmidzi.netlify.appo)
+[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://jamesmidzi.netlify.app)
 
-### Design 
+### 🎨 Design
+
+[![figma](https://img.shields.io/badge/figma-2c2c33?style=for-the-badge&logo=figma&logoColor=)](https://jamesmidzi.netlify.app)
+[![photoshop](https://img.shields.io/badge/PHOTOSHOP-001630?style=for-the-badge&logo=adobephotoshop&logoColor=00a0f2)](https://jamesmidzi.netlify.app)
+[![illustrator](https://img.shields.io/badge/illustrator-300000?style=for-the-badge&logo=adobeillustrator&logoColor=)](https://jamesmidzi.netlify.app)
 
 ---
 
