@@ -92,6 +92,8 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![codepen](https://img.shields.io/badge/Codepen-000000.svg?&style=for-the-badge&logo=Codepen&logoColor=white)](https://jamesmidzi.netlify.app)
 [![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://jamesmidzi.netlify.appo)
 
+### Design 
+
 ---
 
 ### My Mantra:
