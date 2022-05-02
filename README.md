@@ -38,13 +38,13 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ---
 
-### :bar_chart: Stats
+<!-- ### :bar_chart: Stats
 
 [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight)]()
 
 [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&theme=github_dark)]()
 
----
+--- -->
 
 ### 💻 Languages
 
