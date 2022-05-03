@@ -29,22 +29,23 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [GraphCMS and NextJS: Finding A CMS Part 3](https://dantedecodes.hashnode.dev/graphcms-and-nextjs-finding-a-cms-part-3)
 - [Automatically Sort Tailwind Classes with Prettier](https://dantedecodes.hashnode.dev/automatically-sort-tailwind-classes-with-prettier)
 - [TYPO3 Mentorship Program: Sessions Compiled](https://dantedecodes.hashnode.dev/typo3-mentorship-program-sessions-compiled)
 - [The Language Hub - Netlify x Hashnode Hackathon Submission](https://dantedecodes.hashnode.dev/the-language-hub-netlify-x-hashnode-hackathon-submission)
 - [Next.js Releases On-demand Incremental Static Regeneration](https://dantedecodes.hashnode.dev/nextjs-releases-on-demand-incremental-static-regeneration)
-<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<!-- ### :bar_chart: Stats
+### :bar_chart: Stats
 
 [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight)]()
 
 [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&theme=github_dark)]()
 
---- -->
+---
 
 ### 💻 Languages
 
