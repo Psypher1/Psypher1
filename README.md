@@ -29,11 +29,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Findings - Finding A CMS](https://dantedecodes.hashnode.dev/the-findings-finding-a-cms)
 - [Previous and Next Post using Next.js](https://dantedecodes.hashnode.dev/previous-and-next-post-using-nextjs)
 - [Building PRÆY](https://dantedecodes.hashnode.dev/building-praey)
 - [TYPO3 In The Wild: An Interview with Sanjay from NITSAN](https://dantedecodes.hashnode.dev/typo3-in-the-wild-an-interview-with-sanjay-from-nitsan)
 - [GraphCMS and NextJS: Finding A CMS Part 3](https://dantedecodes.hashnode.dev/graphcms-and-nextjs-finding-a-cms-part-3)
-- [Automatically Sort Tailwind Classes with Prettier](https://dantedecodes.hashnode.dev/automatically-sort-tailwind-classes-with-prettier)
 <!-- BLOG-POST-LIST:END -->
 
 ---
