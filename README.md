@@ -29,11 +29,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What Was Your Win This Week?](https://dantedecodes.hashnode.dev/what-was-your-win-this-week)
 - [Why You Should Consider PNPM As Your Package Manager](https://dantedecodes.hashnode.dev/why-you-should-consider-pnpm-as-your-package-manager)
 - [The Findings - Finding A CMS](https://dantedecodes.hashnode.dev/the-findings-finding-a-cms)
 - [Previous and Next Post using Next.js](https://dantedecodes.hashnode.dev/previous-and-next-post-using-nextjs)
 - [Building PRÆY](https://dantedecodes.hashnode.dev/building-praey)
-- [TYPO3 In The Wild: An Interview with Sanjay from NITSAN](https://dantedecodes.hashnode.dev/typo3-in-the-wild-an-interview-with-sanjay-from-nitsan)
 <!-- BLOG-POST-LIST:END -->
 
 ---
