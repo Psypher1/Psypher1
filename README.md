@@ -29,11 +29,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Learn Eleventy](https://dantedecodes.hashnode.dev/lets-learn-eleventy)
 - [Coding Challenges - My Issue With Them](https://dantedecodes.hashnode.dev/coding-challenges-my-issue-with-them)
 - [Do You Have Other Blogs?](https://dantedecodes.hashnode.dev/do-you-have-other-blogs)
 - [I&#39;m Leaving Next.js](https://dantedecodes.hashnode.dev/im-leaving-nextjs)
 - [What Was Your Win This Week?](https://dantedecodes.hashnode.dev/what-was-your-win-this-week)
-- [Why You Should Consider PNPM As Your Package Manager](https://dantedecodes.hashnode.dev/why-you-should-consider-pnpm-as-your-package-manager)
 <!-- BLOG-POST-LIST:END -->
 
 ---
