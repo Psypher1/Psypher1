@@ -29,11 +29,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What Was Your Win This Week &amp; Where I&#39;ve Been](https://dantedecodes.hashnode.dev/what-was-your-win-this-week-and-where-ive-been)
 - [Let&#39;s Learn 11ty Part 2](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-2)
 - [What Was Your Win This Week?](https://dantedecodes.hashnode.dev/what-was-your-win-this-week-1)
 - [Let&#39;s Learn 11ty Part 1](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-1)
 - [Let&#39;s Learn Eleventy](https://dantedecodes.hashnode.dev/lets-learn-eleventy)
-- [Coding Challenges - My Issue With Them](https://dantedecodes.hashnode.dev/coding-challenges-my-issue-with-them)
 <!-- BLOG-POST-LIST:END -->
 
 ---
