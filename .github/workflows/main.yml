@@ -19,8 +19,8 @@ jobs:
 
       - name: commit files
         run: |
-          git config --local user.email "mike@mikeowino.com"
-          git config --local user.name "mikeyhodl"
+          git config --local user.email "jamesmidzi@gmail.com"
+          git config --local user.name "Psypher1"
           git add -A
           git commit -m "update data" -a
 
