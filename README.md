@@ -30,7 +30,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!-- BLOG-POST-LIST:START -->
 
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
