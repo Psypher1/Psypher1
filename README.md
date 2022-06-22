@@ -105,7 +105,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### My Mantra:
 
-> ## _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
+> # _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
 
 <!-- <h2 align="center">I LIKE TO HAVE FUN!!!😄</h2> -->
 
