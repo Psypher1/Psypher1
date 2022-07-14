@@ -29,11 +29,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of Taking Time for Yourself](https://dantedecodes.hashnode.dev/the-importance-of-taking-time-for-yourself)
 - [Let&#39;s Learn 11ty Part 8](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-8)
 - [Let&#39;s Learn 11ty Part 7](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-7)
 - [Let&#39;s Learn 11ty Part 6](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-6)
 - [Learn 11ty Part 5](https://dantedecodes.hashnode.dev/learn-11ty-part-5)
-- [Let&#39;s Learn 11ty Part 4](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
