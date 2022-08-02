@@ -32,8 +32,8 @@ Collaboration is key - if you have anything you may want help with or anything y
 - [Let&#39;s Learn 11ty Part 9: Data Revisited](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-9-data-revisited)
 - [Lessons I&#39;ve Learnt While Building Sites](https://dantedecodes.hashnode.dev/lessons-ive-learnt-while-building-sites)
 - [The Importance of Taking Time for Yourself](https://dantedecodes.hashnode.dev/the-importance-of-taking-time-for-yourself)
-- [Let&#39;s Learn 11ty Part 8](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-8)
-- [Let&#39;s Learn 11ty Part 7](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-7)
+- [Let&#39;s Learn 11ty Part 8: Connecting A CMS](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-8-connecting-a-cms)
+- [Let&#39;s Learn 11ty Part 7: Adding Tailwind](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-7-adding-tailwind)
 <!-- BLOG-POST-LIST:END -->
 
 ---
