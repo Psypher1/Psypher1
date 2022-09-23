@@ -39,6 +39,14 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ---
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ### 📊 Stats
 
 <!-- [![James' Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psypher1&theme=github_dark)]() -->
@@ -52,7 +60,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### 💻 Languages
 
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://jamesmidzi.netlify.app)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://jamesmidzi.netlify.app)
 [![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://jamesmidzi.netlify.app)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://jamesmidzi.netlify.app)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://jamesmidzi.netlify.app)
