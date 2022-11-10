@@ -6,12 +6,13 @@
 For me, each day is an opportunity to learn and try to be better than I was yesterday.
 I believe knowledge is meant to be shared - I aim to do that wherever I can.
 <br/>
+<br/>
 <h3 align='center'> I learn, I develop, I write, I tutor...</h3>
 
 <br/>
 
-- I am exploring what [TYPO III](https://typo3.org/) can do.
-- I have found the CMSes I will use for my projects.
+- I have very varying musical tastes.
+- Your mental state is more important than deadlines.
 - I am working towards inner peace 🐼
 - **Fun Fact**: I adore penguins 🐧🐧🐧🐧
 
@@ -29,6 +30,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [HTML Entities - A Forgotten But Useful Spec](https://dantedecodes.hashnode.dev/html-entities-a-forgotten-but-useful-spec)
 - [Let&#39;s Learn 11ty Part 10: Bringing It All Together](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-10-bringing-it-all-together)
 - [Let&#39;s Learn 11ty Part 9: Data Revisited](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-9-data-revisited)
@@ -50,7 +52,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!-- [![James' Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psypher1&theme=github_dark)]() -->
 
-[![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight)]()
+<!-- [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight)]() -->
 
 [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&theme=github_dark)]()
 
