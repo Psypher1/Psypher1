@@ -37,12 +37,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Main or Master: Where Do You Git-llegiances lie?](https://dantedecodes.hashnode.dev/main-or-master-where-do-you-git-llegiances-lie)
+- [Obsidian - One Year Later](https://dantedecodes.hashnode.dev/obsidian-one-year-later)
 - [HTML Entities - A Forgotten But Useful Spec](https://dantedecodes.hashnode.dev/html-entities-a-forgotten-but-useful-spec)
 - [Let&#39;s Learn 11ty Part 10: Bringing It All Together](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-10-bringing-it-all-together)
 - [Let&#39;s Learn 11ty Part 9: Data Revisited](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-9-data-revisited)
-- [Lessons I&#39;ve Learnt While Building Sites](https://dantedecodes.hashnode.dev/lessons-ive-learnt-while-building-sites)
-- [The Importance of Taking Time for Yourself](https://dantedecodes.hashnode.dev/the-importance-of-taking-time-for-yourself)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
