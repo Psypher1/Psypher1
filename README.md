@@ -16,16 +16,23 @@ I believe knowledge is meant to be shared - I aim to do that wherever I can.
 - I am working towards inner peace 🐼
 - **Fun Fact**: I adore penguins 🐧🐧🐧🐧
 
+<br/>
+
 ### 🤝🏾 Connect With Me
 
 Collaboration is key - if you have anything you may want help with or anything you think I might find interesting, please feel free to @ me on Twitter: [James Dante](https://twitter.com/Psypher1)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://jamesmidzi.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://dantedecodes.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Psypher1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesmidzi)
 [![Polywork](https://img.shields.io/badge/Polywork-5429DC?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/psypher1)
+[![Upwork](https://img.shields.io/badge/Upwork-00ff?style=for-the-badge&logo=upwork&logoColor=white)](https://www.polywork.com/psypher1)
+
+<br/>
 
 ---
+
+<br/>
 
 ### ✍🏾 My Latest Articles
 
@@ -38,9 +45,23 @@ Collaboration is key - if you have anything you may want help with or anything y
 - [The Importance of Taking Time for Yourself](https://dantedecodes.hashnode.dev/the-importance-of-taking-time-for-yourself)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+
 ---
 
-## ⚡ Recent Activity
+<br/>
+
+### 📊 Stats
+
+<!-- [![James' Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psypher1&theme=github_dark)]()  -->
+
+<!-- [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight)]() -->
+
+[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&theme=github_dark)]()
+
+<br/>
+
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
@@ -48,15 +69,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ---
 
-### 📊 Stats
-
-<!-- [![James' Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psypher1&theme=github_dark)]() -->
-
-<!-- [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight)]() -->
-
-[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&theme=github_dark)]()
-
----
+<br/>
 
 ### 💻 Languages
 
