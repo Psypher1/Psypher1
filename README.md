@@ -22,7 +22,7 @@ I believe knowledge is meant to be shared - I aim to do that wherever I can.
 
 Collaboration is key - if you have anything you may want help with or anything you think I might find interesting, please feel free to @ me on Twitter: [James Dante](https://twitter.com/Psypher1)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://dantedecodes.vercel.app)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://dantedecodes.vercel.app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Psypher1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesmidzi)
 [![Polywork](https://img.shields.io/badge/Polywork-5429DC?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/psypher1)
