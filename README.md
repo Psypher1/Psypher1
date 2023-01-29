@@ -38,6 +38,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Main or Master: Where Do You Git-llegiances lie?](https://dantedecodes.hashnode.dev/main-or-master-where-do-you-git-llegiances-lie)
 - [Obsidian - One Year Later](https://dantedecodes.hashnode.dev/obsidian-one-year-later)
 - [HTML Entities - A Forgotten But Useful Spec](https://dantedecodes.hashnode.dev/html-entities-a-forgotten-but-useful-spec)
@@ -57,13 +58,14 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!-- [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight)]() -->
 
-[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&&hide=&count_private=true&hide_border=true&theme=github_dark)]()
+[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&count_private=true&theme=github_dark)]()
 
 <br/>
 
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#20](https://github.com/Psypher1/the-language-hub/issues/20) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 2. ❗️ Opened issue [#19](https://github.com/Psypher1/the-language-hub/issues/19) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 3. ❗️ Opened issue [#18](https://github.com/Psypher1/the-language-hub/issues/18) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
