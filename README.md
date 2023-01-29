@@ -11,6 +11,7 @@ I believe knowledge is meant to be shared - I aim to do that wherever I can.
 
 <br/>
 
+- I'm currently working on [The Language Hub](http://thelanguagehub.netlify.app)
 - I have very varying musical tastes.
 - Your mental state is more important than deadlines.
 - I am working towards inner peace 🐼
@@ -57,7 +58,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!-- [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight)]() -->
 
-[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&theme=github_dark)]()
+[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&&hide=&count_private=true&hide_border=true&theme=github_dark)]()
 
 <br/>
 
