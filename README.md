@@ -64,8 +64,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-
-## <!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br/>
 
