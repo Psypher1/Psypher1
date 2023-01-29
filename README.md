@@ -38,7 +38,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Main or Master: Where Do You Git-llegiances lie?](https://dantedecodes.hashnode.dev/main-or-master-where-do-you-git-llegiances-lie)
 - [Obsidian - One Year Later](https://dantedecodes.hashnode.dev/obsidian-one-year-later)
 - [HTML Entities - A Forgotten But Useful Spec](https://dantedecodes.hashnode.dev/html-entities-a-forgotten-but-useful-spec)
