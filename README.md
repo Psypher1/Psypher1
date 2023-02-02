@@ -65,11 +65,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/Psypher1/dantedecodes/issues/1) in [Psypher1/dantedecodes](https://github.com/Psypher1/dantedecodes)
-2. ❗️ Closed issue [#21](https://github.com/Psypher1/the-language-hub/issues/21) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. 🎉 Merged PR [#22](https://github.com/Psypher1/the-language-hub/pull/22) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 💪 Opened PR [#22](https://github.com/Psypher1/the-language-hub/pull/22) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. ❗️ Opened issue [#21](https://github.com/Psypher1/the-language-hub/issues/21) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. ❗️ Opened issue [#23](https://github.com/Psypher1/the-language-hub/issues/23) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. ❗️ Opened issue [#1](https://github.com/Psypher1/dantedecodes/issues/1) in [Psypher1/dantedecodes](https://github.com/Psypher1/dantedecodes)
+3. ❗️ Closed issue [#21](https://github.com/Psypher1/the-language-hub/issues/21) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 🎉 Merged PR [#22](https://github.com/Psypher1/the-language-hub/pull/22) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 💪 Opened PR [#22](https://github.com/Psypher1/the-language-hub/pull/22) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 <br/>
