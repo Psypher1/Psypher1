@@ -65,11 +65,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#23](https://github.com/Psypher1/the-language-hub/issues/23) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. ❗️ Closed issue [#10](https://github.com/Psypher1/the-language-hub/issues/10) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. 🎉 Merged PR [#24](https://github.com/Psypher1/the-language-hub/pull/24) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 💪 Opened PR [#24](https://github.com/Psypher1/the-language-hub/pull/24) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. 💪 Opened PR [#27](https://github.com/ClydiesF/Hurd/pull/27) in [ClydiesF/Hurd](https://github.com/ClydiesF/Hurd)
+1. 🎉 Merged PR [#28](https://github.com/Psypher1/the-language-hub/pull/28) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. 💪 Opened PR [#28](https://github.com/Psypher1/the-language-hub/pull/28) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. ❗️ Opened issue [#27](https://github.com/Psypher1/the-language-hub/issues/27) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. ❗️ Opened issue [#26](https://github.com/Psypher1/the-language-hub/issues/26) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. ❗️ Opened issue [#25](https://github.com/Psypher1/the-language-hub/issues/25) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 <br/>
