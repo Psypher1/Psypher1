@@ -38,11 +38,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Display Dev.to Posts on an Astro Site](https://dantedecodes.hashnode.dev/how-to-display-devto-posts-on-an-astro-site)
 - [Main or Master: Where Do You Git-llegiances lie?](https://dantedecodes.hashnode.dev/main-or-master-where-do-you-git-llegiances-lie)
 - [Obsidian - One Year Later](https://dantedecodes.hashnode.dev/obsidian-one-year-later)
 - [HTML Entities - A Forgotten But Useful Spec](https://dantedecodes.hashnode.dev/html-entities-a-forgotten-but-useful-spec)
 - [Let&#39;s Learn 11ty Part 10: Bringing It All Together](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-10-bringing-it-all-together)
-- [Let&#39;s Learn 11ty Part 9: Data Revisited](https://dantedecodes.hashnode.dev/lets-learn-11ty-part-9-data-revisited)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
