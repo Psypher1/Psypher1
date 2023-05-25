@@ -65,11 +65,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#12](https://github.com/Psypher1/the-language-hub/issues/12) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. ❗️ Closed issue [#12](https://github.com/Psypher1/the-language-hub/issues/12) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. 🎉 Merged PR [#25](https://github.com/Psypher1/eleventy-personal-site/pull/25) in [Psypher1/eleventy-personal-site](https://github.com/Psypher1/eleventy-personal-site)
-4. 💪 Opened PR [#25](https://github.com/Psypher1/eleventy-personal-site/pull/25) in [Psypher1/eleventy-personal-site](https://github.com/Psypher1/eleventy-personal-site)
-5. ❗️ Opened issue [#37](https://github.com/Psypher1/the-language-hub/issues/37) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. ❗️ Opened issue [#185](https://github.com/FlorianWoelki/obsidian-icon-folder/issues/185) in [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder)
+2. 🗣 Commented on [#12](https://github.com/Psypher1/the-language-hub/issues/12) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. ❗️ Closed issue [#12](https://github.com/Psypher1/the-language-hub/issues/12) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 🎉 Merged PR [#25](https://github.com/Psypher1/eleventy-personal-site/pull/25) in [Psypher1/eleventy-personal-site](https://github.com/Psypher1/eleventy-personal-site)
+5. 💪 Opened PR [#25](https://github.com/Psypher1/eleventy-personal-site/pull/25) in [Psypher1/eleventy-personal-site](https://github.com/Psypher1/eleventy-personal-site)
 <!--END_SECTION:activity-->
 
 <br/>
