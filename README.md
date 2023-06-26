@@ -65,11 +65,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#38](https://github.com/Psypher1/the-language-hub/pull/38) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. 💪 Opened PR [#38](https://github.com/Psypher1/the-language-hub/pull/38) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. 🗣 Commented on [#189](https://github.com/FlorianWoelki/obsidian-icon-folder/issues/189) in [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder)
-4. ❗ Opened issue [#189](https://github.com/FlorianWoelki/obsidian-icon-folder/issues/189) in [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder)
-5. ❗ Opened issue [#185](https://github.com/FlorianWoelki/obsidian-icon-folder/issues/185) in [FlorianWoelki/obsidian-icon-folder](https://github.com/FlorianWoelki/obsidian-icon-folder)
+1. 🔒 Closed issue [#20](https://github.com/Psypher1/the-language-hub/issues/20) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. 🎉 Merged PR [#39](https://github.com/Psypher1/the-language-hub/pull/39) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. 💪 Opened PR [#39](https://github.com/Psypher1/the-language-hub/pull/39) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 🎉 Merged PR [#38](https://github.com/Psypher1/the-language-hub/pull/38) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 💪 Opened PR [#38](https://github.com/Psypher1/the-language-hub/pull/38) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 <br/>
