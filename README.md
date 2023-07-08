@@ -65,11 +65,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/kens120353/learneleventy/pull/1) in [kens120353/learneleventy](https://github.com/kens120353/learneleventy)
-2. 💪 Opened PR [#1](https://github.com/Psypher1/learneleventy-1/pull/1) in [Psypher1/learneleventy-1](https://github.com/Psypher1/learneleventy-1)
-3. 🔒 Closed issue [#20](https://github.com/Psypher1/the-language-hub/issues/20) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 🎉 Merged PR [#39](https://github.com/Psypher1/the-language-hub/pull/39) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. 💪 Opened PR [#39](https://github.com/Psypher1/the-language-hub/pull/39) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 💪 Opened PR [#13](https://github.com/webdevcody/code-racer/pull/13) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+2. 💪 Opened PR [#1](https://github.com/kens120353/learneleventy/pull/1) in [kens120353/learneleventy](https://github.com/kens120353/learneleventy)
+3. 💪 Opened PR [#1](https://github.com/Psypher1/learneleventy-1/pull/1) in [Psypher1/learneleventy-1](https://github.com/Psypher1/learneleventy-1)
+4. 🔒 Closed issue [#20](https://github.com/Psypher1/the-language-hub/issues/20) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 🎉 Merged PR [#39](https://github.com/Psypher1/the-language-hub/pull/39) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 <br/>
