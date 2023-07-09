@@ -65,11 +65,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#26](https://github.com/webdevcody/code-racer/issues/26) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-2. 💪 Opened PR [#13](https://github.com/webdevcody/code-racer/pull/13) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-3. 💪 Opened PR [#1](https://github.com/kens120353/learneleventy/pull/1) in [kens120353/learneleventy](https://github.com/kens120353/learneleventy)
-4. 💪 Opened PR [#1](https://github.com/Psypher1/learneleventy-1/pull/1) in [Psypher1/learneleventy-1](https://github.com/Psypher1/learneleventy-1)
-5. 🔒 Closed issue [#20](https://github.com/Psypher1/the-language-hub/issues/20) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 🗣 Commented on [#26](https://github.com/webdevcody/code-racer/issues/26) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+2. ❗ Opened issue [#26](https://github.com/webdevcody/code-racer/issues/26) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+3. 💪 Opened PR [#13](https://github.com/webdevcody/code-racer/pull/13) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+4. 💪 Opened PR [#1](https://github.com/kens120353/learneleventy/pull/1) in [kens120353/learneleventy](https://github.com/kens120353/learneleventy)
+5. 💪 Opened PR [#1](https://github.com/Psypher1/learneleventy-1/pull/1) in [Psypher1/learneleventy-1](https://github.com/Psypher1/learneleventy-1)
 <!--END_SECTION:activity-->
 
 <br/>
