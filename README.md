@@ -1,7 +1,7 @@
 <h1 align="center"> 👋🏾 Hi, I'm James</h1>
 
 <h2  align="center">I love languages. Put simply;</h2> 
-<h4 align="center">J'aime les langues; Ninapenda lugha; Я люблю языки</h4>
+<h3 align="center">J'aime les langues; Ninapenda lugha; Я люблю языки</h3>
 
 <br />
 For me, each day is an opportunity to learn and try to be better than I was yesterday.
@@ -72,7 +72,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 5. ❗ Opened issue [#124](https://github.com/webdevcody/code-racer/issues/124) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
 <!--END_SECTION:activity-->
 
-<br/>
+---
 
 ### 💻 Languages
 
