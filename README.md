@@ -67,11 +67,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#176](https://github.com/webdevcody/code-racer/issues/176#issuecomment-1634137820) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-2. ❗ Opened issue [#176](https://github.com/webdevcody/code-racer/issues/176) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-3. 💪 Opened PR [#125](https://github.com/webdevcody/code-racer/pull/125) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-4. ❗ Opened issue [#124](https://github.com/webdevcody/code-racer/issues/124) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-5. 🗣 Commented on [#75](https://github.com/webdevcody/code-racer/issues/75#issuecomment-1632361671) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+1. ❗ Opened issue [#40](https://github.com/Psypher1/the-language-hub/issues/40) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. 🗣 Commented on [#176](https://github.com/webdevcody/code-racer/issues/176#issuecomment-1634137820) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+3. ❗ Opened issue [#176](https://github.com/webdevcody/code-racer/issues/176) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+4. 💪 Opened PR [#125](https://github.com/webdevcody/code-racer/pull/125) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
+5. ❗ Opened issue [#124](https://github.com/webdevcody/code-racer/issues/124) in [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
 <!--END_SECTION:activity-->
 
 <br/>
