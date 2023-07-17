@@ -1,6 +1,7 @@
 <h1 align="center"> 👋🏾 Hi, I'm James</h1>
 
-<h2  align="center">I love languages. Put simply; J'aime les langues; Я люблю языки.</h2>
+<h2  align="center">I love languages. Put simply;</h2> 
+<h4 align="center">J'aime les langues; Ninapenda lugha; Я люблю языки</h4>
 
 <br />
 For me, each day is an opportunity to learn and try to be better than I was yesterday.
@@ -11,7 +12,7 @@ I believe knowledge is meant to be shared - I aim to do that wherever I can.
 
 <br/>
 
-- I'm currently working on [The Language Hub](http://thelanguagehub.netlify.app)
+- I'm currently working on [The Language Hub](http://thelanguagehub.netlify.app) and [TYPO3](https://typo3.org)
 - I have very varying musical tastes.
 - Your mental state is more important than deadlines.
 - I am working towards inner peace 🐼
@@ -28,7 +29,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesmidzi)
 [![Polywork](https://img.shields.io/badge/Polywork-5429DC?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/psypher1)
 [![Upwork](https://img.shields.io/badge/Upwork-00ff?style=for-the-badge&logo=upwork&logoColor=white)](https://www.polywork.com/psypher1)
-
+<img src="https://komarev.com/ghpvc/?username=psypher1&style=flat-square&color=blue" alt=""/>
 <br/>
 
 ---
@@ -38,6 +39,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Speaking at Eleventy Meetup](https://dantedecodes.hashnode.dev/speaking-at-eleventy-meetup)
 - [build, extract, refactor](https://dantedecodes.hashnode.dev/build-extract-refactor)
 - [How to Display Dev.to Posts on an Astro Site](https://dantedecodes.hashnode.dev/how-to-display-devto-posts-on-an-astro-site)
@@ -76,62 +78,63 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### 💻 Languages
 
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://jamesmidzi.netlify.app)
-[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://jamesmidzi.netlify.app)
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://jamesmidzi.netlify.app)
-[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://jamesmidzi.netlify.app)
-[![graphql](https://img.shields.io/badge/Graphql-DA0093?style=for-the-badge&logo=graphql&logoColor=white)](https://jamesmidzi.netlify.app)
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://jamesmidzi.netlify.app)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://dantedecodes.vercel.app)
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://dantedecodes.vercel.app)
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://dantedecodes.vercel.app)
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://dantedecodes.vercel.app)
+[![graphql](https://img.shields.io/badge/Graphql-DA0093?style=for-the-badge&logo=graphql&logoColor=white)](https://dantedecodes.vercel.app)
+[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### 🧩 Frameworks/Libraries
 
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://jamesmidzi.netlify.app)
-[![nextjs](https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logo=next.js&logoColor=white)](https://jamesmidzi.netlify.app)
-[![astro](https://img.shields.io/badge/Astro-7735e2?style=for-the-badge&logo=astro&logoColor=white)](https://jamesmidzi.netlify.app)
-[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://jamesmidzi.netlify.app)
-[![django](https://img.shields.io/badge/Django-092C1E?style=for-the-badge&logo=django&logoColor=white)](https://jamesmidzi.netlify.app)
-[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://jamesmidzi.netlify.app)
-[![chakra ui](https://img.shields.io/badge/Chakra%20UI-28B5AA?style=for-the-badge&logo=chakraui&logoColor=white)](https://jamesmidzi.netlify.app)
-[![tailwindcss](https://img.shields.io/badge/TailwindCss-35B3EB?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://jamesmidzi.netlify.app)
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://dantedecodes.vercel.app)
+[![nextjs](https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logo=next.js&logoColor=white)](https://dantedecodes.vercel.app)
+[![astro](https://img.shields.io/badge/Astro-7735e2?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
+[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://dantedecodes.vercel.app)
+[![django](https://img.shields.io/badge/Django-092C1E?style=for-the-badge&logo=django&logoColor=white)](https://dantedecodes.vercel.app)
+[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://dantedecodes.vercel.app)
+[![chakra ui](https://img.shields.io/badge/Chakra%20UI-28B5AA?style=for-the-badge&logo=chakraui&logoColor=white)](https://dantedecodes.vercel.app)
+[![tailwindcss](https://img.shields.io/badge/TailwindCss-35B3EB?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### 📄 SSG
 
-[![eleventy](https://img.shields.io/badge/Eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white)](https://jamesmidzi.netlify.app)
-[![hugo](https://img.shields.io/badge/Hugo-f13c7f?style=for-the-badge&logo=hugo&logoColor=white)](https://jamesmidzi.netlify.app)
+[![eleventy](https://img.shields.io/badge/Eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white)](https://dantedecodes.vercel.app)
+[![astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
+[![hugo](https://img.shields.io/badge/Hugo-f13c7f?style=for-the-badge&logo=hugo&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### 🗃️ Databases
 
-[![planetscale](https://img.shields.io/badge/Planetscale-000000?style=for-the-badge&logo=planetscale&logoColor=white)](https://jamesmidzi.netlify.app)
-[![railway](https://img.shields.io/badge/Railway-005C84?style=for-the-badge&logo=railway&logoColor=white)](https://jamesmidzi.netlify.app)
-[![supabase](https://img.shields.io/badge/Supabase-3bc489?style=for-the-badge&logo=supabase&logoColor=white)](https://jamesmidzi.netlify.app)
-[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://jamesmidzi.netlify.app)
-[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://jamesmidzi.netlify.app)
-[![prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white)](https://jamesmidzi.netlify.app)
-[![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://jamesmidzi.netlify.app)
+[![planetscale](https://img.shields.io/badge/Planetscale-000000?style=for-the-badge&logo=planetscale&logoColor=white)](https://dantedecodes.vercel.app)
+[![railway](https://img.shields.io/badge/Railway-005C84?style=for-the-badge&logo=railway&logoColor=white)](https://dantedecodes.vercel.app)
+[![supabase](https://img.shields.io/badge/Supabase-3bc489?style=for-the-badge&logo=supabase&logoColor=white)](https://dantedecodes.vercel.app)
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://dantedecodes.vercel.app)
+[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://dantedecodes.vercel.app)
+[![prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white)](https://dantedecodes.vercel.app)
+[![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### ⚒️ Tools
 
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://jamesmidzi.netlify.app)
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://jamesmidzi.netlify.app)
-[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jamesmidzi.netlify.app)
-[![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jamesmidzi.netlify.app)
-[![insomnia](https://img.shields.io/badge/Insomnia-6256B6?style=for-the-badge&logo=Insomnia&logoColor=white)](https://jamesmidzi.netlify.app)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://jamesmidzi.netlify.app)
-[![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://jamesmidzi.netlify.app)
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://dantedecodes.vercel.app)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://dantedecodes.vercel.app)
+[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://dantedecodes.vercel.app)
+[![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dantedecodes.vercel.app)
+[![insomnia](https://img.shields.io/badge/Insomnia-6256B6?style=for-the-badge&logo=Insomnia&logoColor=white)](https://dantedecodes.vercel.app)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://dantedecodes.vercel.app)
+[![pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### 🧠 IDEs
 
-[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://jamesmidzi.netlify.app)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-464646.svg?&style=for-the-badge&logo=Sublimetext&logoColor=F28F02)](https://jamesmidzi.netlify.app)
-[![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://jamesmidzi.netlify.app)
-[![codepen](https://img.shields.io/badge/Codepen-000000.svg?&style=for-the-badge&logo=Codepen&logoColor=white)](https://jamesmidzi.netlify.app)
-[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://jamesmidzi.netlify.app)
+[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://dantedecodes.vercel.app)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-464646.svg?&style=for-the-badge&logo=Sublimetext&logoColor=F28F02)](https://dantedecodes.vercel.app)
+[![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://dantedecodes.vercel.app)
+[![codepen](https://img.shields.io/badge/Codepen-000000.svg?&style=for-the-badge&logo=Codepen&logoColor=white)](https://dantedecodes.vercel.app)
+[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### 🎨 Design
 
-[![figma](https://img.shields.io/badge/figma-2c2c33?style=for-the-badge&logo=figma&logoColor=)](https://jamesmidzi.netlify.app)
-[![photoshop](https://img.shields.io/badge/PHOTOSHOP-001630?style=for-the-badge&logo=adobephotoshop&logoColor=00a0f2)](https://jamesmidzi.netlify.app)
-[![illustrator](https://img.shields.io/badge/illustrator-300000?style=for-the-badge&logo=adobeillustrator&logoColor=)](https://jamesmidzi.netlify.app)
+[![figma](https://img.shields.io/badge/figma-2c2c33?style=for-the-badge&logo=figma&logoColor=)](https://dantedecodes.vercel.app)
+[![photoshop](https://img.shields.io/badge/PHOTOSHOP-001630?style=for-the-badge&logo=adobephotoshop&logoColor=00a0f2)](https://dantedecodes.vercel.app)
+[![illustrator](https://img.shields.io/badge/illustrator-300000?style=for-the-badge&logo=adobeillustrator&logoColor=)](https://dantedecodes.vercel.app)
 
 ---
 
