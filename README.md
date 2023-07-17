@@ -29,8 +29,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesmidzi)
 [![Polywork](https://img.shields.io/badge/Polywork-5429DC?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/psypher1)
 [![Upwork](https://img.shields.io/badge/Upwork-00ff?style=for-the-badge&logo=upwork&logoColor=white)](https://www.polywork.com/psypher1)
-<img src="https://komarev.com/ghpvc/?username=psypher1&style=flat-square&color=blue" alt=""/>
-<br/>
 
 ---
 
