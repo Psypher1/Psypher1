@@ -32,7 +32,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ---
 
-<br/>
+
 
 ### ✍🏾 My Latest Articles
 
@@ -45,11 +45,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 - [Obsidian - One Year Later](https://dantedecodes.hashnode.dev/obsidian-one-year-later)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
+
 
 ---
 
-<br/>
+
 
 ### 📊 Stats
 
@@ -59,7 +59,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&count_private=true&theme=github_dark)]()
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=psypher1&show_icons=true&locale=en&theme=algolia" alt="psypher1" /></p>
+<!-- <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=psypher1&show_icons=true&locale=en&theme=algolia" alt="psypher1" /></p> -->
 
 <br/>
 
