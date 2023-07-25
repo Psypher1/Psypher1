@@ -67,11 +67,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#41](https://github.com/Psypher1/the-language-hub/pull/41) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. 💪 Opened PR [#41](https://github.com/Psypher1/the-language-hub/pull/41) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. 🚀 Published release [v1.0.0](https://github.com/Psypher1/the-language-hub/releases/tag/Latest) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 💪 Opened PR [#286](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/286) in [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted)
-5. ❗ Opened issue [#40](https://github.com/Psypher1/the-language-hub/issues/40) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 🎉 Merged PR [#1](https://github.com/Psypher1/car-dodger/pull/1) in [Psypher1/car-dodger](https://github.com/Psypher1/car-dodger)
+2. 💪 Opened PR [#1](https://github.com/Psypher1/car-dodger/pull/1) in [Psypher1/car-dodger](https://github.com/Psypher1/car-dodger)
+3. 🎉 Merged PR [#41](https://github.com/Psypher1/the-language-hub/pull/41) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 💪 Opened PR [#41](https://github.com/Psypher1/the-language-hub/pull/41) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 🚀 Published release [v1.0.0](https://github.com/Psypher1/the-language-hub/releases/tag/Latest) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
