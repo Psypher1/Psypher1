@@ -7,7 +7,7 @@
 For me, each day is an opportunity to learn and try to be better than I was yesterday.
 I believe knowledge is meant to be shared - I aim to do that wherever I can.
 <br/>
-<br/>
+
 <h3 align='center'> I learn, I develop, I write, I tutor...</h3>
 
 <br/>
@@ -32,8 +32,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ---
 
-
-
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
@@ -45,13 +43,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 - [Obsidian - One Year Later](https://dantedecodes.hashnode.dev/obsidian-one-year-later)
 <!-- BLOG-POST-LIST:END -->
 
-
-
 ---
 
+<br/>
 
-
-### 📊 Stats
+## 📊 Stats
 
 <!-- [![James' Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psypher1&theme=github_dark)]()  -->
 
@@ -60,8 +56,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&count_private=true&theme=github_dark)]()
 
 <!-- <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=psypher1&show_icons=true&locale=en&theme=algolia" alt="psypher1" /></p> -->
-
-<br/>
 
 ### ⚡ Recent Activity
 
@@ -138,9 +132,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ---
 
-### My Mantra:
+##### My Mantra:
 
-> # _À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far_
+<blockquoute align='center'>
+<h3 style="font-style: italic;">À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far</h3>
+</blocqoute>
 
 <!-- <h2 align="center">I LIKE TO HAVE FUN!!!😄</h2> -->
 
