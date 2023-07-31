@@ -35,7 +35,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Speaking at Eleventy Meetup](https://dantedecodes.hashnode.dev/speaking-at-eleventy-meetup)
 - [build, extract, refactor](https://dantedecodes.hashnode.dev/build-extract-refactor)
 - [How to Display Dev.to Posts on an Astro Site](https://dantedecodes.hashnode.dev/how-to-display-devto-posts-on-an-astro-site)
