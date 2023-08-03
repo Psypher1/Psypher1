@@ -35,7 +35,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Speaking at Eleventy Meetup](https://dantedecodes.hashnode.dev/speaking-at-eleventy-meetup)
 - [build, extract, refactor](https://dantedecodes.hashnode.dev/build-extract-refactor)
 - [How to Display Dev.to Posts on an Astro Site](https://dantedecodes.hashnode.dev/how-to-display-devto-posts-on-an-astro-site)
@@ -61,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Psypher1/car-dodger/pull/1) in [Psypher1/car-dodger](https://github.com/Psypher1/car-dodger)
-2. 💪 Opened PR [#1](https://github.com/Psypher1/car-dodger/pull/1) in [Psypher1/car-dodger](https://github.com/Psypher1/car-dodger)
-3. 🎉 Merged PR [#41](https://github.com/Psypher1/the-language-hub/pull/41) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 💪 Opened PR [#41](https://github.com/Psypher1/the-language-hub/pull/41) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. 🚀 Published release [v1.0.0](https://github.com/Psypher1/the-language-hub/releases/tag/Latest) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 🎉 Merged PR [#43](https://github.com/Psypher1/the-language-hub/pull/43) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. 💪 Opened PR [#43](https://github.com/Psypher1/the-language-hub/pull/43) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. ❗ Opened issue [#42](https://github.com/Psypher1/the-language-hub/issues/42) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 🎉 Merged PR [#1](https://github.com/Psypher1/car-dodger/pull/1) in [Psypher1/car-dodger](https://github.com/Psypher1/car-dodger)
+5. 💪 Opened PR [#1](https://github.com/Psypher1/car-dodger/pull/1) in [Psypher1/car-dodger](https://github.com/Psypher1/car-dodger)
 <!--END_SECTION:activity-->
 
 ---
