@@ -135,7 +135,9 @@ Collaboration is key - if you have anything you may want help with or anything y
 ##### My Mantra:
 
 <blockquoute align='center'>
-<h3 style="font-style: italic;">À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far</h3>
+
+ <h2 style="font-style: italic;">À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far</h2>
+
 </blocqoute>
 
 <!-- <h2 align="center">I LIKE TO HAVE FUN!!!😄</h2> -->
