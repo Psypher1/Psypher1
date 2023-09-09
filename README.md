@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#10](https://github.com/sailhouse/docs/issues/10) in [sailhouse/docs](https://github.com/sailhouse/docs)
-2. 🔒 Closed issue [#46](https://github.com/Psypher1/the-language-hub/issues/46) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. 🗣 Commented on [#46](https://github.com/Psypher1/the-language-hub/issues/46#issuecomment-1705639640) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 🎉 Merged PR [#47](https://github.com/Psypher1/the-language-hub/pull/47) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. 💪 Opened PR [#47](https://github.com/Psypher1/the-language-hub/pull/47) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. ❗ Opened issue [#48](https://github.com/Psypher1/the-language-hub/issues/48) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. ❗ Opened issue [#10](https://github.com/sailhouse/docs/issues/10) in [sailhouse/docs](https://github.com/sailhouse/docs)
+3. 🔒 Closed issue [#46](https://github.com/Psypher1/the-language-hub/issues/46) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 🗣 Commented on [#46](https://github.com/Psypher1/the-language-hub/issues/46#issuecomment-1705639640) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 🎉 Merged PR [#47](https://github.com/Psypher1/the-language-hub/pull/47) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
