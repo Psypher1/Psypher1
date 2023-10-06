@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2](https://github.com/Psypher1/project-hunt/issues/2) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
-2. ❗ Opened issue [#1](https://github.com/Psypher1/project-hunt/issues/1) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
-3. 🗣 Commented on [#17375](https://github.com/supabase/supabase/issues/17375#issuecomment-1717737762) in [supabase/supabase](https://github.com/supabase/supabase)
-4. ❗ Opened issue [#48](https://github.com/Psypher1/the-language-hub/issues/48) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. ❗ Opened issue [#10](https://github.com/sailhouse/docs/issues/10) in [sailhouse/docs](https://github.com/sailhouse/docs)
+1. 🎉 Merged PR [#4](https://github.com/Psypher1/project-hunt/pull/4) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+2. 💪 Opened PR [#4](https://github.com/Psypher1/project-hunt/pull/4) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+3. 🎉 Merged PR [#3](https://github.com/Psypher1/project-hunt/pull/3) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+4. 💪 Opened PR [#3](https://github.com/Psypher1/project-hunt/pull/3) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+5. ❗ Opened issue [#2](https://github.com/Psypher1/project-hunt/issues/2) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
 <!--END_SECTION:activity-->
 
 ---
