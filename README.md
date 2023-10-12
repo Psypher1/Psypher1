@@ -61,11 +61,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/Psypher1/project-hunt/pull/4) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
-2. 💪 Opened PR [#4](https://github.com/Psypher1/project-hunt/pull/4) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
-3. 🎉 Merged PR [#3](https://github.com/Psypher1/project-hunt/pull/3) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
-4. 💪 Opened PR [#3](https://github.com/Psypher1/project-hunt/pull/3) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
-5. ❗ Opened issue [#2](https://github.com/Psypher1/project-hunt/issues/2) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+1. ❗ Opened issue [#72](https://github.com/EddyVinck/Svelte-Course/issues/72) in [EddyVinck/Svelte-Course](https://github.com/EddyVinck/Svelte-Course)
+2. 🎉 Merged PR [#4](https://github.com/Psypher1/project-hunt/pull/4) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+3. 💪 Opened PR [#4](https://github.com/Psypher1/project-hunt/pull/4) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+4. 🎉 Merged PR [#3](https://github.com/Psypher1/project-hunt/pull/3) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+5. 💪 Opened PR [#3](https://github.com/Psypher1/project-hunt/pull/3) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
 <!--END_SECTION:activity-->
 
 ---
