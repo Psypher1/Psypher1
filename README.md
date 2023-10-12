@@ -83,8 +83,8 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://dantedecodes.vercel.app)
 [![nextjs](https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logo=next.js&logoColor=white)](https://dantedecodes.vercel.app)
+[![svelte](https://img.shields.io/badge/Svelte-ff3c00?style=for-the-badge&logo=svelte&logoColor=white)](https://dantedecodes.vercel.app)
 [![astro](https://img.shields.io/badge/Astro-7735e2?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
-[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://dantedecodes.vercel.app)
 [![django](https://img.shields.io/badge/Django-092C1E?style=for-the-badge&logo=django&logoColor=white)](https://dantedecodes.vercel.app)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://dantedecodes.vercel.app)
 [![chakra ui](https://img.shields.io/badge/Chakra%20UI-28B5AA?style=for-the-badge&logo=chakraui&logoColor=white)](https://dantedecodes.vercel.app)
@@ -93,13 +93,12 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### 📄 SSG
 
 [![eleventy](https://img.shields.io/badge/Eleventy-000000?style=for-the-badge&logo=eleventy&logoColor=white)](https://dantedecodes.vercel.app)
-[![astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
+[![astro](https://img.shields.io/badge/Astro-ff5805?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
 [![hugo](https://img.shields.io/badge/Hugo-f13c7f?style=for-the-badge&logo=hugo&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### 🗃️ Databases
 
 [![planetscale](https://img.shields.io/badge/Planetscale-000000?style=for-the-badge&logo=planetscale&logoColor=white)](https://dantedecodes.vercel.app)
-[![railway](https://img.shields.io/badge/Railway-005C84?style=for-the-badge&logo=railway&logoColor=white)](https://dantedecodes.vercel.app)
 [![supabase](https://img.shields.io/badge/Supabase-3bc489?style=for-the-badge&logo=supabase&logoColor=white)](https://dantedecodes.vercel.app)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://dantedecodes.vercel.app)
 [![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://dantedecodes.vercel.app)
