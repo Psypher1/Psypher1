@@ -36,11 +36,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Fortify Your Database: Supabase&#39;s Row Level Security](https://dantedecodes.hashnode.dev/fortify-your-database-supabases-row-level-security)
 - [Speaking at Eleventy Meetup](https://dantedecodes.hashnode.dev/speaking-at-eleventy-meetup)
 - [build, extract, refactor](https://dantedecodes.hashnode.dev/build-extract-refactor)
 - [How to Display Dev.to Posts on an Astro Site](https://dantedecodes.hashnode.dev/how-to-display-devto-posts-on-an-astro-site)
 - [Main or Master: Where Do You Git-llegiances lie?](https://dantedecodes.hashnode.dev/main-or-master-where-do-you-git-llegiances-lie)
-- [Obsidian - One Year Later](https://dantedecodes.hashnode.dev/obsidian-one-year-later)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -61,11 +61,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#43](https://github.com/Psypher1/the-language-hub/pull/43) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. 💪 Opened PR [#43](https://github.com/Psypher1/the-language-hub/pull/43) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. ❗ Opened issue [#42](https://github.com/Psypher1/the-language-hub/issues/42) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 🎉 Merged PR [#1](https://github.com/Psypher1/car-dodger/pull/1) in [Psypher1/car-dodger](https://github.com/Psypher1/car-dodger)
-5. 💪 Opened PR [#1](https://github.com/Psypher1/car-dodger/pull/1) in [Psypher1/car-dodger](https://github.com/Psypher1/car-dodger)
+1. 🎉 Merged PR [#4](https://github.com/Psypher1/project-hunt/pull/4) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+2. 💪 Opened PR [#4](https://github.com/Psypher1/project-hunt/pull/4) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+3. 🎉 Merged PR [#3](https://github.com/Psypher1/project-hunt/pull/3) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+4. 💪 Opened PR [#3](https://github.com/Psypher1/project-hunt/pull/3) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
+5. ❗ Opened issue [#2](https://github.com/Psypher1/project-hunt/issues/2) in [Psypher1/project-hunt](https://github.com/Psypher1/project-hunt)
 <!--END_SECTION:activity-->
 
 ---
