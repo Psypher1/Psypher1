@@ -35,6 +35,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Automate Database Processes: Supabase Triggers](https://dantedecodes.hashnode.dev/automate-database-processes-supabase-triggers)
 - [Fortify Your Database: Supabase&#39;s Row Level Security](https://dantedecodes.hashnode.dev/fortify-your-database-supabases-row-level-security)
 - [Speaking at Eleventy Meetup](https://dantedecodes.hashnode.dev/speaking-at-eleventy-meetup)
@@ -72,7 +73,8 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### 💻 Languages
 
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://dantedecodes.vercel.app)
-[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://dantedecodes.vercel.app)
+[![python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://dantedecodes.vercel.app)
+[![php](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://dantedecodes.vercel.app)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://dantedecodes.vercel.app)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://dantedecodes.vercel.app)
 [![graphql](https://img.shields.io/badge/Graphql-DA0093?style=for-the-badge&logo=graphql&logoColor=white)](https://dantedecodes.vercel.app)
@@ -82,10 +84,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://dantedecodes.vercel.app)
 [![nextjs](https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logo=next.js&logoColor=white)](https://dantedecodes.vercel.app)
+[![typo3](https://img.shields.io/badge/typo3-ff8700?style=for-the-badge&logo=typo3&logoColor=white)](https://dantedecodes.vercel.app)
 [![svelte](https://img.shields.io/badge/Svelte-ff3c00?style=for-the-badge&logo=svelte&logoColor=white)](https://dantedecodes.vercel.app)
 [![astro](https://img.shields.io/badge/Astro-7735e2?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
 [![django](https://img.shields.io/badge/Django-092C1E?style=for-the-badge&logo=django&logoColor=white)](https://dantedecodes.vercel.app)
-[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://dantedecodes.vercel.app)
+[![scss](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://dantedecodes.vercel.app)
 [![chakra ui](https://img.shields.io/badge/Chakra%20UI-28B5AA?style=for-the-badge&logo=chakraui&logoColor=white)](https://dantedecodes.vercel.app)
 [![tailwindcss](https://img.shields.io/badge/TailwindCss-35B3EB?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://dantedecodes.vercel.app)
 
@@ -95,7 +98,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![astro](https://img.shields.io/badge/Astro-ff5805?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
 [![hugo](https://img.shields.io/badge/Hugo-f13c7f?style=for-the-badge&logo=hugo&logoColor=white)](https://dantedecodes.vercel.app)
 
-### 🗃️ Databases
+### 🗃️ Databases & Management
 
 [![planetscale](https://img.shields.io/badge/Planetscale-000000?style=for-the-badge&logo=planetscale&logoColor=white)](https://dantedecodes.vercel.app)
 [![supabase](https://img.shields.io/badge/Supabase-3bc489?style=for-the-badge&logo=supabase&logoColor=white)](https://dantedecodes.vercel.app)
@@ -103,6 +106,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://dantedecodes.vercel.app)
 [![prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white)](https://dantedecodes.vercel.app)
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dantedecodes.vercel.app)
+[![postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### ⚒️ Tools
 
