@@ -72,22 +72,23 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### 💻 Languages
 
-[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://dantedecodes.vercel.app)
 [![python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://dantedecodes.vercel.app)
 [![php](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://dantedecodes.vercel.app)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://dantedecodes.vercel.app)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://dantedecodes.vercel.app)
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://dantedecodes.vercel.app)
 [![graphql](https://img.shields.io/badge/Graphql-DA0093?style=for-the-badge&logo=graphql&logoColor=white)](https://dantedecodes.vercel.app)
 [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### 🧩 Frameworks/Libraries
 
+[![typo3](https://img.shields.io/badge/typo3-ff8700?style=for-the-badge&logo=typo3&logoColor=white)](https://dantedecodes.vercel.app)
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://dantedecodes.vercel.app)
 [![nextjs](https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logo=next.js&logoColor=white)](https://dantedecodes.vercel.app)
-[![typo3](https://img.shields.io/badge/typo3-ff8700?style=for-the-badge&logo=typo3&logoColor=white)](https://dantedecodes.vercel.app)
-[![svelte](https://img.shields.io/badge/Svelte-ff3c00?style=for-the-badge&logo=svelte&logoColor=white)](https://dantedecodes.vercel.app)
 [![astro](https://img.shields.io/badge/Astro-7735e2?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
 [![django](https://img.shields.io/badge/Django-092C1E?style=for-the-badge&logo=django&logoColor=white)](https://dantedecodes.vercel.app)
+[![larvel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://dantedecodes.vercel.app)
+[![svelte](https://img.shields.io/badge/Svelte-ff3c00?style=for-the-badge&logo=svelte&logoColor=white)](https://dantedecodes.vercel.app)
 [![scss](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://dantedecodes.vercel.app)
 [![chakra ui](https://img.shields.io/badge/Chakra%20UI-28B5AA?style=for-the-badge&logo=chakraui&logoColor=white)](https://dantedecodes.vercel.app)
 [![tailwindcss](https://img.shields.io/badge/TailwindCss-35B3EB?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://dantedecodes.vercel.app)
@@ -121,6 +122,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### 🧠 IDEs
 
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://dantedecodes.vercel.app)
+[![vscode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://dantedecodes.vercel.app)
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-464646.svg?&style=for-the-badge&logo=Sublimetext&logoColor=F28F02)](https://dantedecodes.vercel.app)
 [![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://dantedecodes.vercel.app)
 [![codepen](https://img.shields.io/badge/Codepen-000000.svg?&style=for-the-badge&logo=Codepen&logoColor=white)](https://dantedecodes.vercel.app)
