@@ -30,10 +30,6 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![Polywork](https://img.shields.io/badge/Polywork-5429DC?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/psypher1)
 [![Upwork](https://img.shields.io/badge/Upwork-00ff?style=for-the-badge&logo=upwork&logoColor=white)](https://www.polywork.com/psypher1)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=psypher1&&style=flat-square" align="center" />
-</div>
-
 ---
 
 ### ✍🏾 My Latest Articles
