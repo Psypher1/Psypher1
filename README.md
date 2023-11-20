@@ -35,11 +35,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Typesafe - An Overused Term That Needs a Reality Check](https://dantedecodes.hashnode.dev/typesafe-an-overused-term-that-needs-a-reality-check)
 - [Automate Database Processes: Supabase Triggers](https://dantedecodes.hashnode.dev/automate-database-processes-supabase-triggers)
 - [Fortify Your Database: Supabase&#39;s Row Level Security](https://dantedecodes.hashnode.dev/fortify-your-database-supabases-row-level-security)
 - [Speaking at Eleventy Meetup](https://dantedecodes.hashnode.dev/speaking-at-eleventy-meetup)
 - [build, extract, refactor](https://dantedecodes.hashnode.dev/build-extract-refactor)
-- [How to Display Dev.to Posts on an Astro Site](https://dantedecodes.hashnode.dev/how-to-display-devto-posts-on-an-astro-site)
 <!-- BLOG-POST-LIST:END -->
 
 ---
