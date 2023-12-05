@@ -35,11 +35,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Sveltekit Will Be My Goto Moving Forward](https://dantedecodes.hashnode.dev/why-sveltekit-will-be-my-goto-moving-forward)
 - [File-Based vs. Directory-Based Routing: Understanding the Difference](https://dantedecodes.hashnode.dev/file-based-vs-directory-based-routing-understanding-the-difference)
 - [Typesafe - An Overused Term That Needs a Reality Check](https://dantedecodes.hashnode.dev/typesafe-an-overused-term-that-needs-a-reality-check)
 - [Automate Database Processes: Supabase Triggers](https://dantedecodes.hashnode.dev/automate-database-processes-supabase-triggers)
 - [Fortify Your Database: Supabase&#39;s Row Level Security](https://dantedecodes.hashnode.dev/fortify-your-database-supabases-row-level-security)
-- [Speaking at Eleventy Meetup](https://dantedecodes.hashnode.dev/speaking-at-eleventy-meetup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
