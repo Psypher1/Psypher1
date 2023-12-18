@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#52](https://github.com/Psypher1/the-language-hub/pull/52) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. ❗ Opened issue [#51](https://github.com/Psypher1/the-language-hub/issues/51) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. 🎉 Merged PR [#50](https://github.com/Psypher1/the-language-hub/pull/50) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 💪 Opened PR [#50](https://github.com/Psypher1/the-language-hub/pull/50) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. ❗ Opened issue [#65](https://github.com/efemkay/obsidian-modular-css-layout/issues/65) in [efemkay/obsidian-modular-css-layout](https://github.com/efemkay/obsidian-modular-css-layout)
+1. 🔒 Closed issue [#51](https://github.com/Psypher1/the-language-hub/issues/51) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. 🎉 Merged PR [#52](https://github.com/Psypher1/the-language-hub/pull/52) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. 💪 Opened PR [#52](https://github.com/Psypher1/the-language-hub/pull/52) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. ❗ Opened issue [#51](https://github.com/Psypher1/the-language-hub/issues/51) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 🎉 Merged PR [#50](https://github.com/Psypher1/the-language-hub/pull/50) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
