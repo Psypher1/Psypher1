@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#56](https://github.com/Psypher1/the-language-hub/pull/56) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. ❗ Opened issue [#55](https://github.com/Psypher1/the-language-hub/issues/55) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. 🎉 Merged PR [#54](https://github.com/Psypher1/the-language-hub/pull/54) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. ❗ Opened issue [#12](https://github.com/natemoo-re/astro-remote/issues/12) in [natemoo-re/astro-remote](https://github.com/natemoo-re/astro-remote)
-5. 💪 Opened PR [#54](https://github.com/Psypher1/the-language-hub/pull/54) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 🎉 Merged PR [#58](https://github.com/Psypher1/the-language-hub/pull/58) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. 💪 Opened PR [#58](https://github.com/Psypher1/the-language-hub/pull/58) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. 🎉 Merged PR [#57](https://github.com/Psypher1/the-language-hub/pull/57) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 💪 Opened PR [#57](https://github.com/Psypher1/the-language-hub/pull/57) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 🔒 Closed issue [#55](https://github.com/Psypher1/the-language-hub/issues/55) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
