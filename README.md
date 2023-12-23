@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#54](https://github.com/Psypher1/the-language-hub/pull/54) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. ❗ Opened issue [#12](https://github.com/natemoo-re/astro-remote/issues/12) in [natemoo-re/astro-remote](https://github.com/natemoo-re/astro-remote)
-3. 💪 Opened PR [#54](https://github.com/Psypher1/the-language-hub/pull/54) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 🗣 Commented on [#15096](https://github.com/prettier/prettier/issues/15096#issuecomment-1863070005) in [prettier/prettier](https://github.com/prettier/prettier)
-5. 🗣 Commented on [#15476](https://github.com/prettier/prettier/issues/15476#issuecomment-1863065446) in [prettier/prettier](https://github.com/prettier/prettier)
+1. ❗ Opened issue [#55](https://github.com/Psypher1/the-language-hub/issues/55) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. 🎉 Merged PR [#54](https://github.com/Psypher1/the-language-hub/pull/54) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. ❗ Opened issue [#12](https://github.com/natemoo-re/astro-remote/issues/12) in [natemoo-re/astro-remote](https://github.com/natemoo-re/astro-remote)
+4. 💪 Opened PR [#54](https://github.com/Psypher1/the-language-hub/pull/54) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 🗣 Commented on [#15096](https://github.com/prettier/prettier/issues/15096#issuecomment-1863070005) in [prettier/prettier](https://github.com/prettier/prettier)
 <!--END_SECTION:activity-->
 
 ---
