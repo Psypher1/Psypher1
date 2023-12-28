@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#57](https://github.com/bingryan/obsidian-markdown-export-plugin/issues/57) in [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
-2. 🗣 Commented on [#52](https://github.com/bingryan/obsidian-markdown-export-plugin/issues/52#issuecomment-1871134110) in [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
-3. 🎉 Merged PR [#61](https://github.com/Psypher1/the-language-hub/pull/61) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 💪 Opened PR [#61](https://github.com/Psypher1/the-language-hub/pull/61) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. ❗ Opened issue [#2851](https://github.com/Ivy-Apps/ivy-wallet/issues/2851) in [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)
+1. 💪 Opened PR [#62](https://github.com/Psypher1/the-language-hub/pull/62) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. ❗ Opened issue [#57](https://github.com/bingryan/obsidian-markdown-export-plugin/issues/57) in [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
+3. 🗣 Commented on [#52](https://github.com/bingryan/obsidian-markdown-export-plugin/issues/52#issuecomment-1871134110) in [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
+4. 🎉 Merged PR [#61](https://github.com/Psypher1/the-language-hub/pull/61) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 💪 Opened PR [#61](https://github.com/Psypher1/the-language-hub/pull/61) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
