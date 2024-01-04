@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2851](https://github.com/Ivy-Apps/ivy-wallet/issues/2851#issuecomment-1873039105) in [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)
-2. 🗣 Commented on [#52](https://github.com/bingryan/obsidian-markdown-export-plugin/issues/52#issuecomment-1872325399) in [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
-3. 🎉 Merged PR [#62](https://github.com/Psypher1/the-language-hub/pull/62) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 💪 Opened PR [#62](https://github.com/Psypher1/the-language-hub/pull/62) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. ❗ Opened issue [#57](https://github.com/bingryan/obsidian-markdown-export-plugin/issues/57) in [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
+1. 🗣 Commented on [#52](https://github.com/bingryan/obsidian-markdown-export-plugin/issues/52#issuecomment-1876886413) in [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
+2. 🗣 Commented on [#2851](https://github.com/Ivy-Apps/ivy-wallet/issues/2851#issuecomment-1876882801) in [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)
+3. 🗣 Commented on [#2851](https://github.com/Ivy-Apps/ivy-wallet/issues/2851#issuecomment-1873039105) in [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)
+4. 🗣 Commented on [#52](https://github.com/bingryan/obsidian-markdown-export-plugin/issues/52#issuecomment-1872325399) in [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
+5. 🎉 Merged PR [#62](https://github.com/Psypher1/the-language-hub/pull/62) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
