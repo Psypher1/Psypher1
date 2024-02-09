@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#63](https://github.com/Psypher1/the-language-hub/pull/63) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. 💪 Opened PR [#63](https://github.com/Psypher1/the-language-hub/pull/63) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. 🗣 Commented on [#52](https://github.com/bingryan/obsidian-markdown-export-plugin/issues/52#issuecomment-1876886413) in [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
-4. 🗣 Commented on [#2851](https://github.com/Ivy-Apps/ivy-wallet/issues/2851#issuecomment-1876882801) in [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)
-5. 🗣 Commented on [#2851](https://github.com/Ivy-Apps/ivy-wallet/issues/2851#issuecomment-1873039105) in [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)
+1. 🗣 Commented on [#105](https://github.com/Floorp-Projects/Floorp/issues/105#issuecomment-1935903520) in [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
+2. 🎉 Merged PR [#63](https://github.com/Psypher1/the-language-hub/pull/63) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. 💪 Opened PR [#63](https://github.com/Psypher1/the-language-hub/pull/63) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 🗣 Commented on [#52](https://github.com/bingryan/obsidian-markdown-export-plugin/issues/52#issuecomment-1876886413) in [bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
+5. 🗣 Commented on [#2851](https://github.com/Ivy-Apps/ivy-wallet/issues/2851#issuecomment-1876882801) in [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet)
 <!--END_SECTION:activity-->
 
 ---
