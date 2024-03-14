@@ -35,6 +35,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Rendering External Markdown in Astro](https://dantedecodes.hashnode.dev/rendering-external-markdown-in-astro)
 - [Two Years of Obsidian - What I&#39;ve Learnt](https://dantedecodes.hashnode.dev/two-years-of-obsidian-what-ive-learnt)
 - [Why Sveltekit Will Be My Goto Moving Forward](https://dantedecodes.hashnode.dev/why-sveltekit-will-be-my-goto-moving-forward)
@@ -87,9 +88,8 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![astro](https://img.shields.io/badge/Astro-7735e2?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
 [![django](https://img.shields.io/badge/Django-092C1E?style=for-the-badge&logo=django&logoColor=white)](https://dantedecodes.vercel.app)
 [![larvel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://dantedecodes.vercel.app)
-[![svelte](https://img.shields.io/badge/Svelte-ff3c00?style=for-the-badge&logo=svelte&logoColor=white)](https://dantedecodes.vercel.app)
+[![sveltekit](https://img.shields.io/badge/Sveltekit-ff3c00?style=for-the-badge&logo=svelte&logoColor=white)](https://dantedecodes.vercel.app)
 [![scss](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://dantedecodes.vercel.app)
-[![chakra ui](https://img.shields.io/badge/Chakra%20UI-28B5AA?style=for-the-badge&logo=chakraui&logoColor=white)](https://dantedecodes.vercel.app)
 [![tailwindcss](https://img.shields.io/badge/TailwindCss-35B3EB?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### 📄 SSG
@@ -100,13 +100,13 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### 🗃️ Databases & Management
 
-[![planetscale](https://img.shields.io/badge/Planetscale-000000?style=for-the-badge&logo=planetscale&logoColor=white)](https://dantedecodes.vercel.app)
 [![supabase](https://img.shields.io/badge/Supabase-3bc489?style=for-the-badge&logo=supabase&logoColor=white)](https://dantedecodes.vercel.app)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://dantedecodes.vercel.app)
+[![pocketbase](https://img.shields.io/badge/Pocketbase-ffffff?style=for-the-badge&logo=pocketbase&logoColor=black)](https://dantedecodes.vercel.app)
 [![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://dantedecodes.vercel.app)
-[![prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white)](https://dantedecodes.vercel.app)
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dantedecodes.vercel.app)
 [![postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://dantedecodes.vercel.app)
+[![prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### ⚒️ Tools
 
@@ -125,13 +125,13 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-464646.svg?&style=for-the-badge&logo=Sublimetext&logoColor=F28F02)](https://dantedecodes.vercel.app)
 [![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://dantedecodes.vercel.app)
 [![codepen](https://img.shields.io/badge/Codepen-000000.svg?&style=for-the-badge&logo=Codepen&logoColor=white)](https://dantedecodes.vercel.app)
-[![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://dantedecodes.vercel.app)
 
 ### 🎨 Design
 
-[![figma](https://img.shields.io/badge/figma-2c2c33?style=for-the-badge&logo=figma&logoColor=)](https://dantedecodes.vercel.app)
 [![photoshop](https://img.shields.io/badge/PHOTOSHOP-001630?style=for-the-badge&logo=adobephotoshop&logoColor=00a0f2)](https://dantedecodes.vercel.app)
 [![illustrator](https://img.shields.io/badge/illustrator-300000?style=for-the-badge&logo=adobeillustrator&logoColor=)](https://dantedecodes.vercel.app)
+[![gimp](https://img.shields.io/badge/gimp-2c2c33?style=for-the-badge&logo=gimp&logoColor=)](https://dantedecodes.vercel.app)
+[![figma](https://img.shields.io/badge/figma-2c2c33?style=for-the-badge&logo=figma&logoColor=)](https://dantedecodes.vercel.app)
 
 ---
 
