@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/rivea0/obsidian-prime/issues/1#issuecomment-2016837815) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-2. ❗ Opened issue [#2](https://github.com/rivea0/obsidian-prime/issues/2) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-3. ❗ Opened issue [#1](https://github.com/rivea0/obsidian-prime/issues/1) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-4. 🔒 Closed issue [#65](https://github.com/Psypher1/the-language-hub/issues/65) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. 🎉 Merged PR [#66](https://github.com/Psypher1/the-language-hub/pull/66) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 🗣 Commented on [#2](https://github.com/rivea0/obsidian-prime/issues/2#issuecomment-2016840630) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
+2. 🗣 Commented on [#1](https://github.com/rivea0/obsidian-prime/issues/1#issuecomment-2016837815) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
+3. ❗ Opened issue [#2](https://github.com/rivea0/obsidian-prime/issues/2) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
+4. ❗ Opened issue [#1](https://github.com/rivea0/obsidian-prime/issues/1) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
+5. 🔒 Closed issue [#65](https://github.com/Psypher1/the-language-hub/issues/65) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
