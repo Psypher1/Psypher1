@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/rivea0/obsidian-prime/issues/2#issuecomment-2016840630) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-2. 🗣 Commented on [#1](https://github.com/rivea0/obsidian-prime/issues/1#issuecomment-2016837815) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-3. ❗ Opened issue [#2](https://github.com/rivea0/obsidian-prime/issues/2) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-4. ❗ Opened issue [#1](https://github.com/rivea0/obsidian-prime/issues/1) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-5. 🔒 Closed issue [#65](https://github.com/Psypher1/the-language-hub/issues/65) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 💪 Opened PR [#70](https://github.com/Psypher1/the-language-hub/pull/70) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. ❌ Closed PR [#69](https://github.com/Psypher1/the-language-hub/pull/69) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. 💪 Opened PR [#69](https://github.com/Psypher1/the-language-hub/pull/69) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. ❗ Opened issue [#68](https://github.com/Psypher1/the-language-hub/issues/68) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. ❗ Opened issue [#67](https://github.com/Psypher1/the-language-hub/issues/67) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
