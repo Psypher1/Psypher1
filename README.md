@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#67](https://github.com/Psypher1/the-language-hub/issues/67) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. 🎉 Merged PR [#70](https://github.com/Psypher1/the-language-hub/pull/70) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. 💪 Opened PR [#70](https://github.com/Psypher1/the-language-hub/pull/70) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. ❌ Closed PR [#69](https://github.com/Psypher1/the-language-hub/pull/69) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. 💪 Opened PR [#69](https://github.com/Psypher1/the-language-hub/pull/69) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. ❗ Opened issue [#341](https://github.com/tailwindlabs/tailwindcss-typography/issues/341) in [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
+2. 🔒 Closed issue [#72](https://github.com/Psypher1/the-language-hub/issues/72) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. 🎉 Merged PR [#74](https://github.com/Psypher1/the-language-hub/pull/74) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 💪 Opened PR [#74](https://github.com/Psypher1/the-language-hub/pull/74) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. ❗ Opened issue [#73](https://github.com/Psypher1/the-language-hub/issues/73) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
