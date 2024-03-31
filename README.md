@@ -60,11 +60,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#75](https://github.com/Psypher1/the-language-hub/issues/75) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. ❗ Opened issue [#412](https://github.com/Snailedlt/Markdown-Videos/issues/412) in [Snailedlt/Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos)
-3. ❗ Opened issue [#341](https://github.com/tailwindlabs/tailwindcss-typography/issues/341) in [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
-4. 🔒 Closed issue [#72](https://github.com/Psypher1/the-language-hub/issues/72) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. 🎉 Merged PR [#74](https://github.com/Psypher1/the-language-hub/pull/74) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. ❗ Opened issue [#3](https://github.com/rivea0/obsidian-prime/issues/3) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
+2. ❗ Opened issue [#75](https://github.com/Psypher1/the-language-hub/issues/75) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. ❗ Opened issue [#412](https://github.com/Snailedlt/Markdown-Videos/issues/412) in [Snailedlt/Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos)
+4. ❗ Opened issue [#341](https://github.com/tailwindlabs/tailwindcss-typography/issues/341) in [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
+5. 🔒 Closed issue [#72](https://github.com/Psypher1/the-language-hub/issues/72) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
