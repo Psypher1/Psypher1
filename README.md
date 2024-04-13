@@ -8,11 +8,13 @@ For me, each day is an opportunity to learn and try to be better than I was yest
 I believe knowledge is meant to be shared - I aim to do that wherever I can.
 <br/>
 
-<h3 align='center'> I learn, I develop, I write, I tutor...</h3>
+<h3 align='center'> I learn, I develop, I write, I tutor, I share...</h3>
 
 <br/>
 
-- I'm currently working on [The Language Hub](http://thelanguagehub.netlify.app) and [TYPO3](https://typo3.org)
+- I'm currently working on and with:
+  - [The Language Hub](http://thelanguagehub.netlify.app): An online language reference book.
+  - [TYPO3](https://typo3.org): An open source CMS
 - I have very varying musical tastes.
 - Your mental state is more important than deadlines.
 - I am working towards inner peace 🐼
@@ -24,17 +26,20 @@ I believe knowledge is meant to be shared - I aim to do that wherever I can.
 
 Collaboration is key - if you have anything you may want help with or anything you think I might find interesting, please feel free to @ me on Twitter: [James Dante](https://twitter.com/Psypher1)
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://dantedecodes.vercel.app)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Pharaoh#5441/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Psypher1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesmidzi)
-[![Polywork](https://img.shields.io/badge/Polywork-5429DC?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/psypher1)
-[![Upwork](https://img.shields.io/badge/Upwork-00ff?style=for-the-badge&logo=upwork&logoColor=white)](https://www.polywork.com/psypher1)
+
+<!-- [![Polywork](https://img.shields.io/badge/Polywork-5429DC?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/psypher1)
+[![Upwork](https://img.shields.io/badge/Upwork-00ff?style=for-the-badge&logo=upwork&logoColor=white)](https://www.polywork.com/psypher1) -->
 
 ---
 
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Rendering External Markdown in Astro](https://dantedecodes.hashnode.dev/rendering-external-markdown-in-astro)
 - [Two Years of Obsidian - What I&#39;ve Learnt](https://dantedecodes.hashnode.dev/two-years-of-obsidian-what-ive-learnt)
 - [Why Sveltekit Will Be My Goto Moving Forward](https://dantedecodes.hashnode.dev/why-sveltekit-will-be-my-goto-moving-forward)
@@ -68,6 +73,8 @@ Collaboration is key - if you have anything you may want help with or anything y
 <!--END_SECTION:activity-->
 
 ---
+
+## 🧠 Industry Knowledge
 
 ### 💻 Languages
 
