@@ -64,11 +64,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#4](https://github.com/rivea0/obsidian-prime/issues/4) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-2. ❗ Opened issue [#1541](https://github.com/lucia-auth/lucia/issues/1541) in [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
-3. ❗ Opened issue [#5](https://github.com/jonshipman/sveltekit-pb-boilerplate/issues/5) in [jonshipman/sveltekit-pb-boilerplate](https://github.com/jonshipman/sveltekit-pb-boilerplate)
-4. ❗ Opened issue [#3](https://github.com/rivea0/obsidian-prime/issues/3) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-5. ❗ Opened issue [#75](https://github.com/Psypher1/the-language-hub/issues/75) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 🎉 Merged PR [#76](https://github.com/Psypher1/the-language-hub/pull/76) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. 💪 Opened PR [#76](https://github.com/Psypher1/the-language-hub/pull/76) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. ❗ Opened issue [#4](https://github.com/rivea0/obsidian-prime/issues/4) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
+4. ❗ Opened issue [#1541](https://github.com/lucia-auth/lucia/issues/1541) in [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
+5. ❗ Opened issue [#5](https://github.com/jonshipman/sveltekit-pb-boilerplate/issues/5) in [jonshipman/sveltekit-pb-boilerplate](https://github.com/jonshipman/sveltekit-pb-boilerplate)
 <!--END_SECTION:activity-->
 
 ---
