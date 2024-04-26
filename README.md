@@ -64,11 +64,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#15](https://github.com/pilcrowOnPaper/malta/issues/15) in [pilcrowOnPaper/malta](https://github.com/pilcrowOnPaper/malta)
-2. 🗣 Commented on [#4](https://github.com/rivea0/obsidian-prime/issues/4#issuecomment-2078553073) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-3. 🎉 Merged PR [#76](https://github.com/Psypher1/the-language-hub/pull/76) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 💪 Opened PR [#76](https://github.com/Psypher1/the-language-hub/pull/76) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-5. ❗ Opened issue [#4](https://github.com/rivea0/obsidian-prime/issues/4) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
+1. ❗ Opened issue [#21](https://github.com/inertiajs/pingcrm-svelte/issues/21) in [inertiajs/pingcrm-svelte](https://github.com/inertiajs/pingcrm-svelte)
+2. ❗ Opened issue [#15](https://github.com/pilcrowOnPaper/malta/issues/15) in [pilcrowOnPaper/malta](https://github.com/pilcrowOnPaper/malta)
+3. 🗣 Commented on [#4](https://github.com/rivea0/obsidian-prime/issues/4#issuecomment-2078553073) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
+4. 🎉 Merged PR [#76](https://github.com/Psypher1/the-language-hub/pull/76) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 💪 Opened PR [#76](https://github.com/Psypher1/the-language-hub/pull/76) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 <!--END_SECTION:activity-->
 
 ---
