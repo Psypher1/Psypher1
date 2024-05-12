@@ -12,25 +12,26 @@ I believe knowledge is meant to be shared - I aim to do that wherever I can.
 
 <br/>
 
-- I'm currently working on and with:
-  - [The Language Hub](http://thelanguagehub.netlify.app): An online language reference book.
-  - [TYPO3](https://typo3.org): An open source CMS
-- I have very varying musical tastes.
-- Your mental state is more important than deadlines.
-- I am working towards inner peace 🐼
-- **Fun Fact**: I adore penguins 🐧🐧🐧🐧
+-   I'm currently working on and with:
+    -   [The Language Hub](http://thelanguagehub.netlify.app): An online language reference book.
+    -   [TYPO3](https://typo3.org): An open source CMS
+-   I have very varying musical tastes.
+-   Your mental state is more important than deadlines.
+-   I am working towards inner peace 🐼
+-   **Fun Fact**: I adore penguins 🐧🐧🐧🐧
 
 <br/>
 
-### 🤝🏾 Connect With Me
+### 🤝🏾 Let's Work On Something
 
 Collaboration is key - if you have anything you may want help with or anything you think I might find interesting, please feel free to @ me on Twitter: [James Dante](https://twitter.com/Psypher1)
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dantedecodes.vercel.app)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Pharaoh#5441/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Psypher1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesmidzi)
 
+<!-- https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white -->
 <!-- [![Polywork](https://img.shields.io/badge/Polywork-5429DC?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/psypher1)
 [![Upwork](https://img.shields.io/badge/Upwork-00ff?style=for-the-badge&logo=upwork&logoColor=white)](https://www.polywork.com/psypher1) -->
 
@@ -40,14 +41,16 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Rendering External Markdown in Astro](https://dantedecodes.hashnode.dev/rendering-external-markdown-in-astro)
-- [Two Years of Obsidian - What I&#39;ve Learnt](https://dantedecodes.hashnode.dev/two-years-of-obsidian-what-ive-learnt)
-- [Why Sveltekit Will Be My Goto Moving Forward](https://dantedecodes.hashnode.dev/why-sveltekit-will-be-my-goto-moving-forward)
-- [File-Based vs. Directory-Based Routing: Understanding the Difference](https://dantedecodes.hashnode.dev/file-based-vs-directory-based-routing-understanding-the-difference)
-- [Typesafe - An Overused Term That Needs a Reality Check](https://dantedecodes.hashnode.dev/typesafe-an-overused-term-that-needs-a-reality-check)
+-   [Rendering External Markdown in Astro](https://dantedecodes.hashnode.dev/rendering-external-markdown-in-astro)
+-   [Two Years of Obsidian - What I&#39;ve Learnt](https://dantedecodes.hashnode.dev/two-years-of-obsidian-what-ive-learnt)
+-   [Why Sveltekit Will Be My Goto Moving Forward](https://dantedecodes.hashnode.dev/why-sveltekit-will-be-my-goto-moving-forward)
+-   [File-Based vs. Directory-Based Routing: Understanding the Difference](https://dantedecodes.hashnode.dev/file-based-vs-directory-based-routing-understanding-the-difference)
+-   [Typesafe - An Overused Term That Needs a Reality Check](https://dantedecodes.hashnode.dev/typesafe-an-overused-term-that-needs-a-reality-check)
 <!-- BLOG-POST-LIST:END -->
 
----
+<!-- HASHNODE_BLOG:START -->
+
+## <!-- HASHNODE_BLOG:EBD -->
 
 <br/>
 
@@ -70,7 +73,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 3. ❗ Opened issue [#75](https://github.com/Psypher1/the-language-hub/issues/75) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 4. ❗ Opened issue [#412](https://github.com/Snailedlt/Markdown-Videos/issues/412) in [Snailedlt/Markdown-Videos](https://github.com/Snailedlt/Markdown-Videos)
 5. ❗ Opened issue [#341](https://github.com/tailwindlabs/tailwindcss-typography/issues/341) in [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
-<!--END_SECTION:activity-->
+ <!--END_SECTION:activity-->
 
 ---
 
@@ -78,7 +81,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### 💻 Languages
 
-[![python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://dantedecodes.vercel.app)
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://dantedecodes.vercel.app)
 [![php](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://dantedecodes.vercel.app)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://dantedecodes.vercel.app)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://dantedecodes.vercel.app)
@@ -136,8 +139,9 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 [![photoshop](https://img.shields.io/badge/PHOTOSHOP-001630?style=for-the-badge&logo=adobephotoshop&logoColor=00a0f2)](https://dantedecodes.vercel.app)
 [![illustrator](https://img.shields.io/badge/illustrator-300000?style=for-the-badge&logo=adobeillustrator&logoColor=)](https://dantedecodes.vercel.app)
+[![affinity](https://img.shields.io/badge/affinity-3dbbf4?style=for-the-badge&logo=affinitydesigner&logoColor=186cb7)](https://dantedecodes.vercel.app)
 [![gimp](https://img.shields.io/badge/gimp-2c2c33?style=for-the-badge&logo=gimp&logoColor=)](https://dantedecodes.vercel.app)
-[![figma](https://img.shields.io/badge/figma-2c2c33?style=for-the-badge&logo=figma&logoColor=)](https://dantedecodes.vercel.app)
+[![figma](https://img.shields.io/badge/figma-333?style=for-the-badge&logo=figma&logoColor=)](https://dantedecodes.vercel.app)
 
 ---
 
