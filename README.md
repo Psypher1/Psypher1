@@ -64,11 +64,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#54](https://github.com/ryanpcmcquen/obsidian-focus-mode/issues/54) in [ryanpcmcquen/obsidian-focus-mode](https://github.com/ryanpcmcquen/obsidian-focus-mode)
-2. ❗ Opened issue [#21](https://github.com/inertiajs/pingcrm-svelte/issues/21) in [inertiajs/pingcrm-svelte](https://github.com/inertiajs/pingcrm-svelte)
-3. ❗ Opened issue [#15](https://github.com/pilcrowOnPaper/malta/issues/15) in [pilcrowOnPaper/malta](https://github.com/pilcrowOnPaper/malta)
-4. 🗣 Commented on [#4](https://github.com/rivea0/obsidian-prime/issues/4#issuecomment-2078553073) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-5. 🎉 Merged PR [#76](https://github.com/Psypher1/the-language-hub/pull/76) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. ❗ Opened issue [#5](https://github.com/rivea0/obsidian-prime/issues/5) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
+2. ❗ Opened issue [#54](https://github.com/ryanpcmcquen/obsidian-focus-mode/issues/54) in [ryanpcmcquen/obsidian-focus-mode](https://github.com/ryanpcmcquen/obsidian-focus-mode)
+3. ❗ Opened issue [#21](https://github.com/inertiajs/pingcrm-svelte/issues/21) in [inertiajs/pingcrm-svelte](https://github.com/inertiajs/pingcrm-svelte)
+4. ❗ Opened issue [#15](https://github.com/pilcrowOnPaper/malta/issues/15) in [pilcrowOnPaper/malta](https://github.com/pilcrowOnPaper/malta)
+5. 🗣 Commented on [#4](https://github.com/rivea0/obsidian-prime/issues/4#issuecomment-2078553073) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
  <!--END_SECTION:activity-->
 
 ---
