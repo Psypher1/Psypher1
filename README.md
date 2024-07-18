@@ -39,11 +39,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Constant Quest For Productivity May Be Hurting You](https://dantedecodes.hashnode.dev/your-constant-quest-for-productivity-may-be-hurting-you)
 - [I Present To You - shrinkat - A Tiny URL Shortener](https://dantedecodes.hashnode.dev/i-present-to-you-shrinkat-a-tiny-url-shortener)
 - [Rendering External Markdown in Astro](https://dantedecodes.hashnode.dev/rendering-external-markdown-in-astro)
 - [Two Years of Obsidian - What I&#39;ve Learnt](https://dantedecodes.hashnode.dev/two-years-of-obsidian-what-ive-learnt)
 - [Why Sveltekit Will Be My Goto Moving Forward](https://dantedecodes.hashnode.dev/why-sveltekit-will-be-my-goto-moving-forward)
-- [File-Based vs. Directory-Based Routing: Understanding the Difference](https://dantedecodes.hashnode.dev/file-based-vs-directory-based-routing-understanding-the-difference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
