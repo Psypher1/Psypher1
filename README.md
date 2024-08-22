@@ -64,11 +64,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/dreamsofautonomy/zen-omp/issues/2#issuecomment-2292071997) in [dreamsofautonomy/zen-omp](https://github.com/dreamsofautonomy/zen-omp)
-2. 🗣 Commented on [#2](https://github.com/dreamsofautonomy/zen-omp/issues/2#issuecomment-2291267669) in [dreamsofautonomy/zen-omp](https://github.com/dreamsofautonomy/zen-omp)
-3. ❗ Opened issue [#2](https://github.com/taronull/ayu-obsidian/issues/2) in [taronull/ayu-obsidian](https://github.com/taronull/ayu-obsidian)
-4. ❗ Opened issue [#525](https://github.com/FlorianWoelki/obsidian-iconize/issues/525) in [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize)
-5. 🗣 Commented on [#81](https://github.com/HiEventsDev/hi.events/issues/81#issuecomment-2198277616) in [HiEventsDev/hi.events](https://github.com/HiEventsDev/hi.events)
+1. ❗ Opened issue [#6](https://github.com/rivea0/obsidian-prime/issues/6) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
+2. 🗣 Commented on [#2](https://github.com/dreamsofautonomy/zen-omp/issues/2#issuecomment-2292071997) in [dreamsofautonomy/zen-omp](https://github.com/dreamsofautonomy/zen-omp)
+3. 🗣 Commented on [#2](https://github.com/dreamsofautonomy/zen-omp/issues/2#issuecomment-2291267669) in [dreamsofautonomy/zen-omp](https://github.com/dreamsofautonomy/zen-omp)
+4. ❗ Opened issue [#2](https://github.com/taronull/ayu-obsidian/issues/2) in [taronull/ayu-obsidian](https://github.com/taronull/ayu-obsidian)
+5. ❗ Opened issue [#525](https://github.com/FlorianWoelki/obsidian-iconize/issues/525) in [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize)
  <!--END_SECTION:activity-->
 
 ---
