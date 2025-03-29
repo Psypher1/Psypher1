@@ -88,12 +88,12 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### 🧩 Frameworks/Libraries
 
 [![typo3](https://img.shields.io/badge/typo3-ff8700?style=for-the-badge&logo=typo3&logoColor=white)](https://dantedecodes.vercel.app)
+[![nuxt](https://img.shields.io/badge/Nuxt-000?style=for-the-badge&logo=nuxt&logoColor=61DAFB02d17a)](https://dantedecodes.vercel.app)
+[![larvel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://dantedecodes.vercel.app)
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://dantedecodes.vercel.app)
 [![nextjs](https://img.shields.io/badge/Next.JS-000?style=for-the-badge&logo=next.js&logoColor=white)](https://dantedecodes.vercel.app)
 [![astro](https://img.shields.io/badge/Astro-7735e2?style=for-the-badge&logo=astro&logoColor=white)](https://dantedecodes.vercel.app)
 [![django](https://img.shields.io/badge/Django-092C1E?style=for-the-badge&logo=django&logoColor=white)](https://dantedecodes.vercel.app)
-[![larvel](https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://dantedecodes.vercel.app)
-[![sveltekit](https://img.shields.io/badge/Sveltekit-ff3c00?style=for-the-badge&logo=svelte&logoColor=white)](https://dantedecodes.vercel.app)
 [![scss](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://dantedecodes.vercel.app)
 [![tailwindcss](https://img.shields.io/badge/TailwindCss-35B3EB?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://dantedecodes.vercel.app)
 
@@ -133,8 +133,8 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### 🎨 Design
 
-[![photoshop](https://img.shields.io/badge/PHOTOSHOP-001630?style=for-the-badge&logo=adobephotoshop&logoColor=00a0f2)](https://dantedecodes.vercel.app)
-[![illustrator](https://img.shields.io/badge/illustrator-300000?style=for-the-badge&logo=adobeillustrator&logoColor=)](https://dantedecodes.vercel.app)
+[![photoshop](https://img.shields.io/badge/Photo-001630?style=for-the-badge&logo=affinityphotophotoshop&logoColor=00a0f2)](https://dantedecodes.vercel.app)
+[![illustrator](https://img.shields.io/badge/Designer-300000?style=for-the-badge&logo=adobeillustrator&logoColor=)](https://dantedecodes.vercel.app)
 [![gimp](https://img.shields.io/badge/gimp-2c2c33?style=for-the-badge&logo=gimp&logoColor=)](https://dantedecodes.vercel.app)
 [![figma](https://img.shields.io/badge/figma-2c2c33?style=for-the-badge&logo=figma&logoColor=)](https://dantedecodes.vercel.app)
 
