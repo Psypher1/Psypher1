@@ -39,11 +39,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How Svelte 5 Made Me Understand Nuxt](https://dantedecodes.hashnode.dev/how-svelte-5-made-me-understand-nuxt)
+- [You Don&#39;t Need That Flex](https://dantedecodes.hashnode.dev/you-dont-need-that-flex)
+- [Your Constant Quest For Productivity May Be Hurting You](https://dantedecodes.hashnode.dev/your-constant-quest-for-productivity-may-be-hurting-you)
 - [I Present To You - shrinkat - A Tiny URL Shortener](https://dantedecodes.hashnode.dev/i-present-to-you-shrinkat-a-tiny-url-shortener)
 - [Rendering External Markdown in Astro](https://dantedecodes.hashnode.dev/rendering-external-markdown-in-astro)
-- [Two Years of Obsidian - What I&#39;ve Learnt](https://dantedecodes.hashnode.dev/two-years-of-obsidian-what-ive-learnt)
-- [Why Sveltekit Will Be My Goto Moving Forward](https://dantedecodes.hashnode.dev/why-sveltekit-will-be-my-goto-moving-forward)
-- [File-Based vs. Directory-Based Routing: Understanding the Difference](https://dantedecodes.hashnode.dev/file-based-vs-directory-based-routing-understanding-the-difference)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -64,11 +64,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#17424](https://github.com/microsoft/terminal/issues/17424) in [microsoft/terminal](https://github.com/microsoft/terminal)
-2. ❗ Opened issue [#5](https://github.com/rivea0/obsidian-prime/issues/5) in [rivea0/obsidian-prime](https://github.com/rivea0/obsidian-prime)
-3. ❗ Opened issue [#54](https://github.com/ryanpcmcquen/obsidian-focus-mode/issues/54) in [ryanpcmcquen/obsidian-focus-mode](https://github.com/ryanpcmcquen/obsidian-focus-mode)
-4. ❗ Opened issue [#21](https://github.com/inertiajs/pingcrm-svelte/issues/21) in [inertiajs/pingcrm-svelte](https://github.com/inertiajs/pingcrm-svelte)
-5. ❗ Opened issue [#15](https://github.com/pilcrowOnPaper/malta/issues/15) in [pilcrowOnPaper/malta](https://github.com/pilcrowOnPaper/malta)
+1. ❗ Opened issue [#29](https://github.com/benjaminezequiel/keep-the-rhythm/issues/29) in [benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm)
+2. 🔒 Closed issue [#40](https://github.com/Psypher1/the-language-hub/issues/40) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. ❗ Opened issue [#79](https://github.com/Psypher1/the-language-hub/issues/79) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 🗣 Commented on [#3](https://github.com/safak/full-stack-school/issues/3#issuecomment-2379067645) in [safak/full-stack-school](https://github.com/safak/full-stack-school)
+5. ❗ Opened issue [#3](https://github.com/safak/full-stack-school/issues/3) in [safak/full-stack-school](https://github.com/safak/full-stack-school)
  <!--END_SECTION:activity-->
 
 ---
