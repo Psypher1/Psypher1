@@ -39,11 +39,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel is How Development Should Be](https://dantedecodes.hashnode.dev/laravel-is-how-development-should-be)
 - [How Svelte 5 Made Me Understand Nuxt](https://dantedecodes.hashnode.dev/how-svelte-5-made-me-understand-nuxt)
 - [You Don&#39;t Need That Flex](https://dantedecodes.hashnode.dev/you-dont-need-that-flex)
 - [Your Constant Quest For Productivity May Be Hurting You](https://dantedecodes.hashnode.dev/your-constant-quest-for-productivity-may-be-hurting-you)
 - [I Present To You - shrinkat - A Tiny URL Shortener](https://dantedecodes.hashnode.dev/i-present-to-you-shrinkat-a-tiny-url-shortener)
-- [Rendering External Markdown in Astro](https://dantedecodes.hashnode.dev/rendering-external-markdown-in-astro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
