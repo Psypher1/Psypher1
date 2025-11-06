@@ -64,7 +64,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#62](https://github.com/benjaminezequiel/keep-the-rhythm/issues/62#issuecomment-3015316548) in [benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm)
+1. 🗣 Commented on [#8949](https://github.com/pnpm/pnpm/issues/8949#issuecomment-3497047448) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
 2. 🔒 Closed issue [#62](https://github.com/benjaminezequiel/keep-the-rhythm/issues/62) in [benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm)
 3. ❗ Opened issue [#62](https://github.com/benjaminezequiel/keep-the-rhythm/issues/62) in [benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm)
 4. 🗣 Commented on [#58](https://github.com/benjaminezequiel/keep-the-rhythm/issues/58#issuecomment-2977762344) in [benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm)
