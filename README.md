@@ -64,10 +64,10 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1.  Labeled issue [#253](https://github.com/Kyome22/RunCat365/issues/253) in [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365)
-2. ❗ Opened issue [#253](https://github.com/Kyome22/RunCat365/issues/253) in [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365)
-3. 🗣 Commented on [#8949](https://github.com/pnpm/pnpm/issues/8949#issuecomment-3497047448) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-4. 🗣 Commented on [#58](https://github.com/benjaminezequiel/keep-the-rhythm/issues/58#issuecomment-2977762344) in [benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm)
+1. 🗣 Commented on [#253](https://github.com/Kyome22/RunCat365/issues/253#issuecomment-3585544104) in [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365)
+2.  Labeled issue [#253](https://github.com/Kyome22/RunCat365/issues/253) in [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365)
+3. ❗ Opened issue [#253](https://github.com/Kyome22/RunCat365/issues/253) in [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365)
+4. 🗣 Commented on [#8949](https://github.com/pnpm/pnpm/issues/8949#issuecomment-3497047448) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
 5. 🗣 Commented on [#58](https://github.com/benjaminezequiel/keep-the-rhythm/issues/58#issuecomment-2969599106) in [benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm)
  <!--END_SECTION:activity-->
 
