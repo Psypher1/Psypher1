@@ -64,11 +64,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1.  Labeled issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
-2.  Labeled issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
-3. ❗ Opened issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
-4.  Labeled issue [#43998](https://github.com/zed-industries/zed/issues/43998) in [zed-industries/zed](https://github.com/zed-industries/zed)
-5. ❗ Opened issue [#43998](https://github.com/zed-industries/zed/issues/43998) in [zed-industries/zed](https://github.com/zed-industries/zed)
+1. 🔒 Closed issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
+2. 🗣 Commented on [#5597](https://github.com/nuxt/ui/issues/5597#issuecomment-3608554845) in [nuxt/ui](https://github.com/nuxt/ui)
+3.  Labeled issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
+4.  Labeled issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
+5. ❗ Opened issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
  <!--END_SECTION:activity-->
 
 ---
