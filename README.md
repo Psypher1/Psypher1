@@ -39,11 +39,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel is How Development Should Be](https://dantedecodes.hashnode.dev/laravel-is-how-development-should-be)
 - [How Svelte 5 Made Me Understand Nuxt](https://dantedecodes.hashnode.dev/how-svelte-5-made-me-understand-nuxt)
 - [You Don&#39;t Need That Flex](https://dantedecodes.hashnode.dev/you-dont-need-that-flex)
 - [Your Constant Quest For Productivity May Be Hurting You](https://dantedecodes.hashnode.dev/your-constant-quest-for-productivity-may-be-hurting-you)
 - [I Present To You - shrinkat - A Tiny URL Shortener](https://dantedecodes.hashnode.dev/i-present-to-you-shrinkat-a-tiny-url-shortener)
-- [Rendering External Markdown in Astro](https://dantedecodes.hashnode.dev/rendering-external-markdown-in-astro)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -64,11 +64,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#29](https://github.com/benjaminezequiel/keep-the-rhythm/issues/29) in [benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm)
-2. 🔒 Closed issue [#40](https://github.com/Psypher1/the-language-hub/issues/40) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. ❗ Opened issue [#79](https://github.com/Psypher1/the-language-hub/issues/79) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. 🗣 Commented on [#3](https://github.com/safak/full-stack-school/issues/3#issuecomment-2379067645) in [safak/full-stack-school](https://github.com/safak/full-stack-school)
-5. ❗ Opened issue [#3](https://github.com/safak/full-stack-school/issues/3) in [safak/full-stack-school](https://github.com/safak/full-stack-school)
+1. 🔒 Closed issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
+2. 🗣 Commented on [#5597](https://github.com/nuxt/ui/issues/5597#issuecomment-3608554845) in [nuxt/ui](https://github.com/nuxt/ui)
+3.  Labeled issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
+4.  Labeled issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
+5. ❗ Opened issue [#5597](https://github.com/nuxt/ui/issues/5597) in [nuxt/ui](https://github.com/nuxt/ui)
  <!--END_SECTION:activity-->
 
 ---
