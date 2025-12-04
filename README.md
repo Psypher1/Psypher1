@@ -48,19 +48,20 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ---
 
-<br/>
 
+<!-- 
 ## 📊 Stats
+ [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=vue-dark&hide_border=true)]() -->
 
-<!-- [![James' Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psypher1&theme=github_dark)]()  -->
+<!-- Graph -->
+ <!-- [![James' Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psypher1&theme=github_dark)]()  -->
 
-<!-- [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=tokyonight)]() -->
 
-![![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&count_private=true&theme=github_dark)]()
+<!-- Paused deploy -->
+<!-- [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&count_private=true&theme=github_dark)]() -->
 
-<!-- <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=psypher1&show_icons=true&locale=en&theme=algolia" alt="psypher1" /></p> -->
 
-### ⚡ Recent Activity
+## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
@@ -105,6 +106,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 ### 🗃️ Databases & Management
 
+[![sqlite](https://img.shields.io/badge/sqlite-248ad6?style=for-the-badge&logo=sqlite&logoColor=white)](https://dantedecodes.vercel.app)
 [![supabase](https://img.shields.io/badge/Supabase-3bc489?style=for-the-badge&logo=supabase&logoColor=white)](https://dantedecodes.vercel.app)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://dantedecodes.vercel.app)
 [![pocketbase](https://img.shields.io/badge/Pocketbase-ffffff?style=for-the-badge&logo=pocketbase&logoColor=black)](https://dantedecodes.vercel.app)
@@ -112,6 +114,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dantedecodes.vercel.app)
 [![postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://dantedecodes.vercel.app)
 [![prisma](https://img.shields.io/badge/prisma-000?style=for-the-badge&logo=prisma&logoColor=white)](https://dantedecodes.vercel.app)
+[![drizzle](https://img.shields.io/badge/drizzle-000?style=for-the-badge&logo=drizzle&logoColor=c7f755)](https://dantedecodes.vercel.app)
 
 ### ⚒️ Tools
 
