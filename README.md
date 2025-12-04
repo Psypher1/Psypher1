@@ -50,7 +50,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 
 <!-- 
-## 📊 Stats
+
  [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=vue-dark&hide_border=true)]() -->
 
 <!-- Graph -->
@@ -59,7 +59,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!-- Paused deploy -->
 <!-- [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&count_private=true&theme=github_dark)]() -->
+## 📊 Stats
 
+[![James' Github Stats](https://psy-gh-stats.vercel.app/api?username=Psypher1&show_icons=true&count_private=true&hide_border=true&theme=vue-dark)]()
+
+---
 
 ## ⚡ Recent Activity
 
