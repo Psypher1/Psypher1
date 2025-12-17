@@ -69,11 +69,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#43998](https://github.com/zed-industries/zed/issues/43998#issuecomment-3649538647) in [zed-industries/zed](https://github.com/zed-industries/zed)
-2. 🗣 Commented on [#568](https://github.com/derceg/explorerplusplus/issues/568#issuecomment-3620860809) in [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus)
-3. 🗣 Commented on [#4658](https://github.com/anuraghazra/github-readme-stats/issues/4658#issuecomment-3611817270) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🗣 Commented on [#4658](https://github.com/anuraghazra/github-readme-stats/issues/4658#issuecomment-3611758635) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. 🗣 Commented on [#4658](https://github.com/anuraghazra/github-readme-stats/issues/4658#issuecomment-3611656496) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 🔒 Closed issue [#5690](https://github.com/nuxt/ui/issues/5690) in [nuxt/ui](https://github.com/nuxt/ui)
+2. 🗣 Commented on [#5690](https://github.com/nuxt/ui/issues/5690#issuecomment-3661802825) in [nuxt/ui](https://github.com/nuxt/ui)
+3. 🗣 Commented on [#5690](https://github.com/nuxt/ui/issues/5690#issuecomment-3661782428) in [nuxt/ui](https://github.com/nuxt/ui)
+4. 🗣 Commented on [#5690](https://github.com/nuxt/ui/issues/5690#issuecomment-3661774761) in [nuxt/ui](https://github.com/nuxt/ui)
+5. 🗣 Commented on [#5690](https://github.com/nuxt/ui/issues/5690#issuecomment-3660541745) in [nuxt/ui](https://github.com/nuxt/ui)
  <!--END_SECTION:activity-->
 
 ---
