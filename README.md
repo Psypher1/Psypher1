@@ -69,11 +69,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#5690](https://github.com/nuxt/ui/issues/5690) in [nuxt/ui](https://github.com/nuxt/ui)
-2. 🗣 Commented on [#5690](https://github.com/nuxt/ui/issues/5690#issuecomment-3661802825) in [nuxt/ui](https://github.com/nuxt/ui)
-3. 🗣 Commented on [#5690](https://github.com/nuxt/ui/issues/5690#issuecomment-3661782428) in [nuxt/ui](https://github.com/nuxt/ui)
-4. 🗣 Commented on [#5690](https://github.com/nuxt/ui/issues/5690#issuecomment-3661774761) in [nuxt/ui](https://github.com/nuxt/ui)
-5. 🗣 Commented on [#5690](https://github.com/nuxt/ui/issues/5690#issuecomment-3660541745) in [nuxt/ui](https://github.com/nuxt/ui)
+1. 🔒 Closed issue [#81](https://github.com/LeonLuttenberger/obsidian-kindle-highlight-import/issues/81) in [LeonLuttenberger/obsidian-kindle-highlight-import](https://github.com/LeonLuttenberger/obsidian-kindle-highlight-import)
+2. 🗣 Commented on [#81](https://github.com/LeonLuttenberger/obsidian-kindle-highlight-import/issues/81#issuecomment-3693449346) in [LeonLuttenberger/obsidian-kindle-highlight-import](https://github.com/LeonLuttenberger/obsidian-kindle-highlight-import)
+3. ❗ Opened issue [#81](https://github.com/LeonLuttenberger/obsidian-kindle-highlight-import/issues/81) in [LeonLuttenberger/obsidian-kindle-highlight-import](https://github.com/LeonLuttenberger/obsidian-kindle-highlight-import)
+4. 🔒 Closed issue [#5690](https://github.com/nuxt/ui/issues/5690) in [nuxt/ui](https://github.com/nuxt/ui)
+5. 🗣 Commented on [#5690](https://github.com/nuxt/ui/issues/5690#issuecomment-3661802825) in [nuxt/ui](https://github.com/nuxt/ui)
  <!--END_SECTION:activity-->
 
 ---
