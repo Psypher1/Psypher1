@@ -39,26 +39,26 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel is How Development Should Be](https://dev.to/psypher1/laravel-is-how-development-should-be-9ob)
-- [How Svelte 5 Made Me Understand Nuxt](https://dev.to/psypher1/how-svelte-5-made-me-understand-nuxt-2joj)
-- [You Don&#39;t Need The Flex](https://dev.to/psypher1/you-dont-need-the-flex-42km)
-- [Your Constant Quest For Productivity May Be Hurting You](https://dev.to/psypher1/your-constant-quest-for-productivity-may-be-hurting-you-631)
-- [Say Hello To shrinkat - A Tiny URL Shortener](https://dev.to/psypher1/say-hello-to-shrinkat-a-tiny-url-shortener-310k)
+
+-   [Laravel is How Development Should Be](https://dev.to/psypher1/laravel-is-how-development-should-be-9ob)
+-   [How Svelte 5 Made Me Understand Nuxt](https://dev.to/psypher1/how-svelte-5-made-me-understand-nuxt-2joj)
+-   [You Don&#39;t Need The Flex](https://dev.to/psypher1/you-dont-need-the-flex-42km)
+-   [Your Constant Quest For Productivity May Be Hurting You](https://dev.to/psypher1/your-constant-quest-for-productivity-may-be-hurting-you-631)
+-   [Say Hello To shrinkat - A Tiny URL Shortener](https://dev.to/psypher1/say-hello-to-shrinkat-a-tiny-url-shortener-310k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-
-<!-- 
+<!--
 
  [![James' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Psypher1&theme=vue-dark&hide_border=true)]() -->
 
 <!-- Graph -->
  <!-- [![James' Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=psypher1&theme=github_dark)]()  -->
 
-
 <!-- Paused deploy -->
 <!-- [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=Psypher1&show_icons=true&count_private=true&theme=github_dark)]() -->
+
 ## 📊 Stats
 
 [![James' Github Stats](https://psy-gh-stats.vercel.app/api?username=Psypher1&show_icons=true&count_private=true&hide_border=true&theme=vue-dark)]()
@@ -154,6 +154,9 @@ Collaboration is key - if you have anything you may want help with or anything y
  <h2 style="font-style: italic;">À Petits Pas, J'irai Très Loin - With Small Steps, I Will Go Very Far</h2>
 
 </blocqoute>
+
+> [!IMPORTANT]
+> It is us who breaks the responsiveness of the web.
 
 <!-- <h2 align="center">I LIKE TO HAVE FUN!!!😄</h2> -->
 
