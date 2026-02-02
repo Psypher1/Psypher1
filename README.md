@@ -39,11 +39,12 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto Forge - Embracing Nuxt](https://dev.to/psypher1/crypto-forge-embracing-nuxt-5ahh)
-- [Laravel is How Development Should Be](https://dev.to/psypher1/laravel-is-how-development-should-be-9ob)
-- [How Svelte 5 Made Me Understand Nuxt](https://dev.to/psypher1/how-svelte-5-made-me-understand-nuxt-2joj)
-- [You Don&#39;t Need The Flex](https://dev.to/psypher1/you-dont-need-the-flex-42km)
-- [Your Constant Quest For Productivity May Be Hurting You](https://dev.to/psypher1/your-constant-quest-for-productivity-may-be-hurting-you-631)
+
+-   [Crypto Forge - Embracing Nuxt](https://dev.to/psypher1/crypto-forge-embracing-nuxt-5ahh)
+-   [Laravel is How Development Should Be](https://dev.to/psypher1/laravel-is-how-development-should-be-9ob)
+-   [How Svelte 5 Made Me Understand Nuxt](https://dev.to/psypher1/how-svelte-5-made-me-understand-nuxt-2joj)
+-   [You Don&#39;t Need The Flex](https://dev.to/psypher1/you-dont-need-the-flex-42km)
+-   [Your Constant Quest For Productivity May Be Hurting You](https://dev.to/psypher1/your-constant-quest-for-productivity-may-be-hurting-you-631)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -84,7 +85,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 [![python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://dantedecodes.vercel.app)
 [![php](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://dantedecodes.vercel.app)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://dantedecodes.vercel.app)
-[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://dantedecodes.vercel.app)
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://dantedecodes.vercel.app)
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://dantedecodes.vercel.app)
 [![graphql](https://img.shields.io/badge/Graphql-DA0093?style=for-the-badge&logo=graphql&logoColor=white)](https://dantedecodes.vercel.app)
 [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://dantedecodes.vercel.app)
