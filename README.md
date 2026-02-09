@@ -68,7 +68,7 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#2](https://github.com/davidvkimball/obsidian-oxygen/issues/2) in [davidvkimball/obsidian-oxygen](https://github.com/davidvkimball/obsidian-oxygen)
+1. 🗣 Commented on [#568](https://github.com/derceg/explorerplusplus/issues/568#issuecomment-3848412221) in [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus)
 2. ❗ Opened issue [#2](https://github.com/davidvkimball/obsidian-oxygen/issues/2) in [davidvkimball/obsidian-oxygen](https://github.com/davidvkimball/obsidian-oxygen)
 3. 🗣 Commented on [#578](https://github.com/SkepticMystic/breadcrumbs/issues/578#issuecomment-3728580297) in [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs)
 4. 🗣 Commented on [#578](https://github.com/SkepticMystic/breadcrumbs/issues/578#issuecomment-3728577820) in [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs)
