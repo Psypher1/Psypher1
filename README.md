@@ -68,11 +68,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#43998](https://github.com/zed-industries/zed/issues/43998#issuecomment-3922178776) in [zed-industries/zed](https://github.com/zed-industries/zed)
-2. 🗣 Commented on [#43998](https://github.com/zed-industries/zed/issues/43998#issuecomment-3916882307) in [zed-industries/zed](https://github.com/zed-industries/zed)
-3. 🗣 Commented on [#568](https://github.com/derceg/explorerplusplus/issues/568#issuecomment-3848412221) in [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus)
-4. 🗣 Commented on [#578](https://github.com/SkepticMystic/breadcrumbs/issues/578#issuecomment-3728577820) in [SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs)
-5. 🔒 Closed issue [#2](https://github.com/Psypher1/the-language-hub/issues/2) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. ℹ️ Assigned issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. ℹ️ Labeled issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. ℹ️ Labeled issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. ❗ Opened issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+5. 🎉 Merged PR [#81](https://github.com/Psypher1/the-language-hub/pull/81) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
  <!--END_SECTION:activity-->
 
 ---
