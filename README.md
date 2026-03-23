@@ -68,10 +68,10 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#83](https://github.com/Psypher1/the-language-hub/pull/83) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-2. 💪 Opened PR [#83](https://github.com/Psypher1/the-language-hub/pull/83) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-3. ℹ️ Assigned issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. ℹ️ Labeled issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 🗣 Commented on [#2](https://github.com/LennZone/Neumorphism/issues/2#issuecomment-4082902234) in [LennZone/Neumorphism](https://github.com/LennZone/Neumorphism)
+2. 🎉 Merged PR [#83](https://github.com/Psypher1/the-language-hub/pull/83) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. 💪 Opened PR [#83](https://github.com/Psypher1/the-language-hub/pull/83) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. ℹ️ Assigned issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 5. ℹ️ Labeled issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
  <!--END_SECTION:activity-->
 
