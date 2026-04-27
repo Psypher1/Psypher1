@@ -68,9 +68,9 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#60](https://github.com/rafaelveiga/obsidian-widgets/issues/60) in [rafaelveiga/obsidian-widgets](https://github.com/rafaelveiga/obsidian-widgets)
-2. 🗣 Commented on [#13179](https://github.com/signalapp/Signal-Android/issues/13179#issuecomment-4229472948) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
-3. 💪 Opened PR [#83](https://github.com/Psypher1/the-language-hub/pull/83) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 🗣 Commented on [#30](https://github.com/xandemon/developer-icons/issues/30#issuecomment-4322233480) in [xandemon/developer-icons](https://github.com/xandemon/developer-icons)
+2. ❗ Opened issue [#60](https://github.com/rafaelveiga/obsidian-widgets/issues/60) in [rafaelveiga/obsidian-widgets](https://github.com/rafaelveiga/obsidian-widgets)
+3. 🗣 Commented on [#13179](https://github.com/signalapp/Signal-Android/issues/13179#issuecomment-4229472948) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
 4. ℹ️ Assigned issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 5. ℹ️ Labeled issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
  <!--END_SECTION:activity-->
