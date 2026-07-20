@@ -68,10 +68,10 @@ Collaboration is key - if you have anything you may want help with or anything y
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#41](https://github.com/gdzx/audiosource/issues/41#issuecomment-4509661839) in [gdzx/audiosource](https://github.com/gdzx/audiosource)
-2. 🗣 Commented on [#41](https://github.com/gdzx/audiosource/issues/41#issuecomment-4489088362) in [gdzx/audiosource](https://github.com/gdzx/audiosource)
-3. ❌ Closed PR [#86](https://github.com/Psypher1/the-language-hub/pull/86) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
-4. ❌ Closed PR [#85](https://github.com/Psypher1/the-language-hub/pull/85) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+1. 🗣 Commented on [#37](https://github.com/Psypher1/the-language-hub/issues/37#issuecomment-4966861356) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+2. 🔒 Closed issue [#37](https://github.com/Psypher1/the-language-hub/issues/37) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+3. 🗣 Commented on [#82](https://github.com/Psypher1/the-language-hub/issues/82#issuecomment-4966848927) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
+4. 🔒 Closed issue [#82](https://github.com/Psypher1/the-language-hub/issues/82) in [Psypher1/the-language-hub](https://github.com/Psypher1/the-language-hub)
 5. ❗ Opened issue [#41](https://github.com/gdzx/audiosource/issues/41) in [gdzx/audiosource](https://github.com/gdzx/audiosource)
  <!--END_SECTION:activity-->
 
