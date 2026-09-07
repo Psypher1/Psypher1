@@ -39,11 +39,11 @@ Collaboration is key - if you have anything you may want help with or anything y
 ### ✍🏾 My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Avoid shadcn/ui: Design Homogenisation &amp; Hype](https://dev.to/psypher1/why-i-avoid-shadcnui-design-homogenisation-hype-431o)
 - [The &#39;AI&#39; Problem Noone Is Talking About7i](https://dev.to/psypher1/the-ai-problem-noone-is-talking-about-3aj7)
 - [Are You Crippled By Your Preferences](https://dev.to/psypher1/are-you-crippled-by-your-preferences-8l5)
 - [Strict Types Won&#39;t Fix Your Lack of Understanding](https://dev.to/psypher1/strict-types-wont-fix-your-lack-of-understanding-533h)
 - [Crypto Forge - Embracing Nuxt](https://dev.to/psypher1/crypto-forge-embracing-nuxt-5ahh)
-- [Laravel is How Development Should Be](https://dev.to/psypher1/laravel-is-how-development-should-be-9ob)
 <!-- BLOG-POST-LIST:END -->
 
 ---
